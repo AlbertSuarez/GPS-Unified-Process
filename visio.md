@@ -1,43 +1,29 @@
-﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# SISTEMA ACME - VISIÓ #
-
-
-> El propòsit del document de visió és recollir, analitzar i definir necesitats i capacitats d'alt nivell del sistema objecte del projecte
-
+﻿# SISTEMA ACME - VISIÓ #
 
 ## 1. INTRODUCCIÓ ##
 
-> Breu motivació i presentació del sistema. No hauria d'ocupar més de 250 paraules
-
+Intercanvi de temps. Poder aquest terme s’opta una mica i no s’acaba d’entendre del tot, però respecte això funciona el nostre sistema. És a dir, en crear una comunitat en la qual tothom pugui exercir les seves habilitats per ajudar a altres persones per tal de guanyar “temps”; el qual utilitzaran per a que altre gent li faci tasques que ells no en son capacitats. I tot això, sense gastar ni un euro!
 
 ## 2. EL PROBLEMA ##
 
-> Descrivim el problema que volem resoldre amb èmfasi en el seu impacte (sobre persones, la societat, l'economia, ...)
-
 Degut a la crisis actual, molta gent no disposa dels recursos necessaris per poder afrontar les tasques del dia a dia. A partir d’aquesta problemàtica esta sorgint una nova tendència on la moneda de canvi és el temps enlloc dels diners.
 
-## 3. PARTS INTERESSADES ##
+Així doncs, tota aquestes famílies que els hi costa molt arribar a final de mes, podran sortir d’aquest pou amb l’ajut d’aquesta nova tendència.
 
-> Descriviu totes les parts interessades en el sistema
+## 3. PARTS INTERESSADES ##
 
 1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat en rebre serveis sense la necessitat d’haver de pagar per aquest. També existeix el cas contrari en el que la persona vol oferir un servei per tal de guanyar temps d’intercanvi.
 2. *Inversors*. Recuperar la seva inversió amb interessos en un temps determinat.
 
 ## 4. EL PRODUCTE ##
 
-> Aquesta secció descriu en alt nivell les capacitats del producte, supòsits de funcionament, dependències sobre altres sistemes, ...
-
 ### 4.1. Perspectiva del producte ###
 
-El nostre producte serà principalment una app per a smarthphones però tindrà una altra plataforma via web per si l’usuari no disposa d’un smarthphone.
+El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent.
  
-> Resumiu la informació en un dibuix:
-
-![](http://www.dittoditto.com/img/screenshots/soft-arch.gif)
+(AQUÍ HAURÀ D’HAVER-HI UN DIBUIX)
 
 ### 4.2. Descripció del producte ###
-> Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):
 
 1. *Registrar-se*. Per poder utilitzar l’aplicació has de formar part del nostre sistema. 
 2. *Iniciar Sessió*. Per poder utilitzar l’aplicació has d’iniciar sessió. 
@@ -49,19 +35,17 @@ El nostre producte serà principalment una app per a smarthphones però tindrà 
 
  
 ### 4.3. Supòsits de funcionament ###
-> Enumereu els supòsits per a que el producte satisfaci la seva funcionalitat:
 
 1. *Pagament Satisfactori*. Un cop realitzada l’activitat demanada el client pagarà al treballador el temps acordat.
 2. *Temps suficient*. El client a l’hora de contractar el servei disposa del temps necessari per poder-lo pagar.
 3. *Acords Legals*. Un usuari no tindrà més d’una compte d’usuari per tal de poder-se transferir l’hora inicial de manera indefinida.
  
 ### 4.4. Dependències sobre altres sistemes ###
-> Enumereu les dependències del producte sobre altres sistemes existents:
 
 1. *Google Maps*. Per poder filtrar els serveis en funció de la seva localització el sistema interactuarà amb Google Maps.
+2. *Facebook*. Per tal de poder contactar més fàcilment amb altres usuaris i, a la vegada, poder verificar la seva identitat.
   
 ### 4.5. Altres requisits ###
-> Aquí ens referim només als requisits no funcionals (usabilitat, eficiència, ...). Poseu els més importants amb una molt breu descripció:
 
 1. *Usable*. El sistema ha de ser intuïtiu i fàcil d’usar.
 2. *Eficient*. El sistema ha de respondre a l’usuari en menys de mig segon.
@@ -70,8 +54,6 @@ El nostre producte serà principalment una app per a smarthphones però tindrà 
 5. *Fiable*. El sistema ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
 
 ## 5. RECURSOS ##
-
-> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra aball. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
 
 [1] http://www.bdtonline.org/
 

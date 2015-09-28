@@ -5,7 +5,7 @@
 
 ### Descripció ###
 
-La tecnologia a emprar a quedat substituida per una de nova
+La tecnologia a emprar a quedat substituïda per una de nova
 
 ### Probabilitat ###
 
@@ -21,7 +21,7 @@ Comunicats emesos per la companyia dissenyadora de la tecnologia
  
 ### Estratègies de mitigació ###
 
-Comprobar si la companyia dissenyadora de la tecnologia està pensant en una de nova abans de fer el disseny del sistema
+Comprovar si la companyia dissenyadora de la tecnologia està pensant en una de nova abans de fer el disseny del sistema
  
 ### Plans de mitigació ###
 
@@ -41,7 +41,7 @@ probable
  
 ### Impacte ###
 
-Cal fer un estudi sobre la tecnologia, això implicarà una perdua de temps
+Cal fer un estudi sobre la tecnologia, això implicarà una pèrdua de temps
  
 ### Indicadors ###
 
@@ -53,7 +53,7 @@ Intentar que entre tots els membres de l'equip existeixi un mínim coneixement d
  
 ### Plans de mitigació ###
 
-Pactar amb el client un canvi de tecnologia, incorporar a l'equip algú que la conegui o fer un estudi "ràpid" sobre la tecnología
+Pactar amb el client un canvi de tecnologia, incorporar a l'equip algú que la conegui o fer un estudi "ràpid" sobre la tecnologia
 
 
 
@@ -113,7 +113,63 @@ Idealment, buscar un substitut el més ràpid possible per ocupar la vacant i no
 
 
 
-## RISC 005. --- ##
+## RISC 005. Decisions incorrectes ##
+
+### Descripció ###
+
+Es prenen una o més decisions no correctes que afecten al transcurs del desenvolupament del projecte.
+
+### Probabilitat ###
+
+Versemblant.
+ 
+### Impacte ###
+
+Afecten al temps de producció del nou sistema, i sí, a la vegada pot provocar el desastre del projecte.
+
+### Indicadors ###
+
+Quan hi ha un error en el projecte, es fa veure ràpidament.
+ 
+### Estratègies de mitigació ###
+
+Estudiar amb cura cada decisió que es pren.
+
+### Plans de mitigació ###
+
+Restaurar al punt on es va prendre la decisió equivocada i tirar per un altre camí.
+
+
+
+## RISC 006. Incompliment dels requisits ##
+
+### Descripció ###
+
+Les parts interessades no estan satisfetes amb el sistema desenvolupat perquè no compleix els requisits.
+
+### Probabilitat ###
+
+Versemblant.
+ 
+### Impacte ###
+
+En una gran majoria dels casos suposaria el fracàs del projecte.
+
+### Indicadors ###
+
+Els stakeholders ho transmeten al equip que desenvolupa el projecte.
+ 
+### Estratègies de mitigació ###
+
+Estudiar ben bé els requisits mínims que satisfan a les parts interessades abans d’entregar el sistema i complir-los.
+
+### Plans de mitigació ###
+
+Estudiar com afegir aquests requisits no complerts per tal de satisfer als stakeholders.
+
+
+
+## RISC 007. ##
 
 ### Descripció ###
 
@@ -141,63 +197,7 @@ Idealment, buscar un substitut el més ràpid possible per ocupar la vacant i no
 
 
 
-## RISC 006. --- ##
-
-### Descripció ###
-
----
-
-### Probabilitat ###
-
----
- 
-### Impacte ###
-
----
-
-### Indicadors ###
-
----
- 
-### Estratègies de mitigació ###
-
----
-
-### Plans de mitigació ###
-
----
-
-
-
-## RISC 007. --- ##
-
-### Descripció ###
-
----
-
-### Probabilitat ###
-
----
- 
-### Impacte ###
-
----
-
-### Indicadors ###
-
----
- 
-### Estratègies de mitigació ###
-
----
-
-### Plans de mitigació ###
-
----
-
-
-
-## RISC 008. --- ##
+## RISC 008. ##
 
 ### Descripció ###
 

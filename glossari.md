@@ -1,7 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# SISTEMA ACME - GLOSSARI #
-
+﻿# SISTEMA ACME - GLOSSARI #
 
 > El glossari llista els termes del domini que són claus en el sistema. 
 > 
@@ -16,6 +13,4 @@
 
 Per cada terme:
 
-- Terme 1: definició
-- Terme 2: definició
-- ...
+- Banc de Temps [1]: Un Banc de Temps és una eina amb la qual un grup de persones poden crear una alternativa a l’economia social. En un BdT: v. Banc de Temps, s’intercanvien habilitats entre els membres sense utilitzar diners, únicament comptabilitzant hores de servei prestat i rebut.
