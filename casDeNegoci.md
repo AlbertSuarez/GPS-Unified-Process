@@ -7,11 +7,14 @@
 
 ## 1. DESCRIPCIÓ DEL PRODUCTE ##
 
-> Breu resum (3-4 línies) de la visió del producte. Cal que sigui concordant amb el contingut del document de visió
+El nostre producte serà una aplicació software per a smartphones el cual soportarà iOS i Android en les últimes versions dels dos. També s'hi podrà accedir via web amb el compte d'usuari.
+L'aplicació permetrà intercanviar temps amb altres usuaris per tal de poder donar i rebre serveis sense necessitar de pagar amb diners. La moneda de canvi del nostre aplicatiu és el temps.
+L'usuari podrà oferir serveis, posar-se en contacte amb usuaris per rebre serveis, valorar un servei un cop realitzat i pagar el servei amb temps.
 
 ## 2. CONTEXT DE NEGOCI ##
 
-> Cal descriure: quin és el sector de negoci (telecomunicacions, banc, salut, ...); és un producte de consum intern, és per vendre a un client, és per fer-ne llicències, és per vendre-hi serveis, ...? Quina vida prevista té? etc.
+El sector del nostre negoci és el dels bancs. Tot i que no és el concepte de banc actual on s'hi guarden diners, en els nostres bancs s'hi guarda temps que és la moneda de canvi del nostre aplicatiu.
+L'objectiu de negoci no és vendre cap producte, nosaltres oferim un servei de contacte entre serveis sense necessitat de pagar amb diners.
 
 ## 3. OBJECTIUS DEL PRODUCTE ##
 
