@@ -2,8 +2,7 @@
 
 ## 1. INTRODUCCIÓ ##
 
-Intercanvi de temps. Poder aquest terme s’opta una mica i no s’acaba d’entendre del tot, però respecte això funciona el nostre sistema. És a dir, en crear una comunitat en la qual tothom pugui exercir les seves habilitats per ajudar a altres persones per tal de guanyar “temps”; el qual utilitzaran per a que altre gent li faci tasques que ells no en son capacitats. I tot això, sense gastar ni un euro!
-
+Intercanvi de temps, un terme que encara no està prou concebut per la societat però que aporta una nova manera d’obtenir serveis de forma gratuïta. El sistema que pretenem crear s’aprofita d’aquest concepte i intenta crear una comunitat en la qual tothom pugui oferir les seves habilitats per ajudar a altres persones per tal de guanyar “temps”; el qual utilitzaran per a que altres persones li realitzin tasques que ells no poden realitzar.
 ## 2. EL PROBLEMA ##
 
 Degut a la crisis actual, molta gent no disposa dels recursos necessaris per poder afrontar les tasques del dia a dia. A partir d’aquesta problemàtica esta sorgint una nova tendència on la moneda de canvi és el temps enlloc dels diners.

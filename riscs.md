@@ -169,57 +169,56 @@ Estudiar com afegir aquests requisits no complerts per tal de satisfer als stake
 
 
 
-## RISC 007. ##
+## RISC 007. Canvi de requisits per part dels Stakeholders##
 
 ### Descripció ###
-
----
+Les parts interessades volen afegir nous requisits o modificar requisits prèviament establerts
 
 ### Probabilitat ###
 
----
+alta
  
 ### Impacte ###
 
----
+Depenent de la implicació del canvi, caldrà tornar a fer alguns apartats
 
 ### Indicadors ###
 
----
+Els Stakeholders ho comuniquen
  
 ### Estratègies de mitigació ###
 
----
+Realitzar una bona tasca d’enginyeria de requisits que garanteixi que les parts interessades no modifiquin els requisits
 
 ### Plans de mitigació ###
 
----
+Comunicar qualsevol acció fer amb les parts interessades per tal d’adonar-nos del canvi el més aviat possible.
 
 
 
-## RISC 008. ##
+## RISC 008.L’inversor del projecte es retira durant el procés ##
 
 ### Descripció ###
 
----
+L’inversor del projecte decideix que el projecte no s’adequa a les seves expectatives i deixa de finançar-lo durant la realització d’aquest.
 
 ### Probabilitat ###
 
----
+baixa
  
 ### Impacte ###
 
----
+Dedicació de temps en buscar un nou inversor o tancament del projecte.
 
 ### Indicadors ###
 
----
+Ho comunica l’inversor
  
 ### Estratègies de mitigació ###
 
----
+Garantir que l’inversor està satisfet en tot moment amb el projecte
 
 ### Plans de mitigació ###
 
----
+Raonar amb l’inversor o buscar un  de nou
 

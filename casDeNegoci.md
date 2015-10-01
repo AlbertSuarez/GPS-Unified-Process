@@ -16,6 +16,8 @@ L'usuari podrà oferir serveis, posar-se en contacte amb usuaris per rebre serve
 El sector del nostre negoci és el dels bancs. Tot i que no és el concepte de banc actual on s'hi guarden diners, en els nostres bancs s'hi guarda temps que és la moneda de canvi del nostre aplicatiu.
 L'objectiu de negoci no és vendre cap producte, nosaltres oferim un servei de contacte entre serveis sense necessitat de pagar amb diners.
 
+→crec q aquí hauríem de dir en plan que el negoci serà incloure publicitat en el sistema o que oferirem funcionalitats extres per una cuota mensual/anual o alguna cosa així
+
 ## 3. OBJECTIUS DEL PRODUCTE ##
 
 > Enumereu els objectius que pretèn cobrir el sistema
