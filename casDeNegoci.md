@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # SISTEMA ACME - CAS DE NEGOCI #
 
@@ -20,7 +20,7 @@ L'objectiu de negoci no és vendre cap producte, nosaltres oferim un servei de c
 
 > Enumereu els objectius que pretèn cobrir el sistema
 
-1. *Objectiu 1*. Descripció 
+1. *Objectiu 1*. Descripció
 2. *Objectiu 2*. Descripció 
 3. ...
 
@@ -28,9 +28,8 @@ L'objectiu de negoci no és vendre cap producte, nosaltres oferim un servei de c
 
 > Enumereu les restriccions sobre les quals es desenvoluparà el producte. Poden ser restriccions de domini (abast), restriccions del projecte mateix (e.g., sobre l'equip de treball), restriccions tecnològiques, estàndards als què cal adherir-se, etc.
 
-1. *Restricció 1*. Descripció 
-2. *Restricció 2*. Descripció 
-3. ...
+1. *Dirigida als clients*. Per tal d'utilitzar l'aplicació és necessari estar registrat.  
+2. *Disponibilitat*. L'aplicació no garanteix el 100% de disponibilitat degut a possibles activitats de manteniment.
 
 ## 5. PREVISIÓ FINANCERA ##
 
