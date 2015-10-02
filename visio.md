@@ -52,6 +52,8 @@ El nostre producte serà principalment una app per a smartphones amb capacitat d
 4. *Disponible*. El sistema ha d’estar disponible sempre.
 5. *Fiable*. El sistema ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
 
+* FICAR REQUISITS NO FUNCIONALS
+
 ## 5. RECURSOS ##
 
 [1] http://www.bdtonline.org/
