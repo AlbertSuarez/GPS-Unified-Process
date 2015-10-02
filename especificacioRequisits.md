@@ -14,7 +14,8 @@
 
 ### 1.1. Diagrama de casos d'ús
 
-)
+![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/84c11875067262e2a5101efe8237bc91de268216/DiagramaCasosDus.png?token=3b536e9d5a53602e751c5dabc720f67c40e4073c)
+
 
 > A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
 
