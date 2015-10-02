@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
@@ -8,6 +8,10 @@
 ## 1. ORGANITZACIÓ I EQUIP ##
 
 > Descriure breument l'organització i l'equip de treball (quins rols, quants treballadors de cada rol)
+El nostre equip estarà organitzat de la següent manera:
+- Cap de projecte
+- Analista
+- 2 Desenvolupadors/Administradors del sistema
 
 ## 2. ESTIMACIÓ D'ESFORÇ ##
 
