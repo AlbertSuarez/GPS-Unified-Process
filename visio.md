@@ -1,26 +1,36 @@
-﻿# SISTEMA ACME - VISIÓ #
+﻿# **SISTEMA ACME - VISIÓ** #
 
-## 1. INTRODUCCIÓ ##
+## **1. INTRODUCCIÓ** ##
+
+> CALDRIA APROFUNDIR MES LA INTRODUCCIO. TOT I QUE ES FIQUI PALLA.
 
 Intercanvi de temps, un terme que encara no està prou concebut per la societat però que aporta una nova manera d’obtenir serveis de forma gratuïta. El sistema que pretenem crear s’aprofita d’aquest concepte i intenta crear una comunitat en la qual tothom pugui oferir les seves habilitats per ajudar a altres persones per tal de guanyar “temps”; el qual utilitzaran per a que altres persones li realitzin tasques que ells no poden realitzar.
-## 2. EL PROBLEMA ##
+
+
+## **2. EL PROBLEMA** ##
 
 Degut a la crisis actual, molta gent no disposa dels recursos necessaris per poder afrontar les tasques del dia a dia. A partir d’aquesta problemàtica esta sorgint una nova tendència on la moneda de canvi és el temps enlloc dels diners.
-
 Així doncs, tota aquestes famílies que els hi costa molt arribar a final de mes, podran sortir d’aquest pou amb l’ajut d’aquesta nova tendència.
 
-## 3. PARTS INTERESSADES ##
 
-1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat en rebre serveis sense la necessitat d’haver de pagar per aquest. També existeix el cas contrari en el que la persona vol oferir un servei per tal de guanyar temps d’intercanvi.
-2. *Inversors*. Recuperar la seva inversió amb interessos en un temps determinat.
+## **3. PARTS INTERESSADES** ##
 
-## 4. EL PRODUCTE ##
+1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat en rebre serveis sense la necessitat d’haver de pagar per aquest. També existeix el cas contrari en el que la persona vol oferir un servei per tal de guanyar temps d’intercanvi. La seva principal responsabilitat serà la de fer ús de l'aplicació i compartir-la amb els seus per tal de expandir la tendència.
+2. *Inversors*. Seran els responsables de financiar el projecte perquè aquest pogui iniciar. La seva principal resposabilitat serà la d'aportar els diners suficients per al projecte.
+3. *Proveïdor de serveis al núvol*. Empresa que proveirà de servidors pel funcionament de l'aplicació al web. La seva principal responsabilitat serà aportar els coneixements requerits i necessaris per tal de desenvolupar el software en línia.
+4. *Competidors*. Empreses o particulars que es dedican a la realització d'aplicacions semblants. La seva principal responsabilitat es interesar-se en el desenvolupament del nou software per tal de obtenir idees i millorar el seu respectiu sistema.
+5. *Equip del projecte*.Persones que dedicaran més temps en el desenvolupament del software. La seva principal responsabilitat és aportar temps i esforç per tal d'obtenir una aplicació atesa a les expectatives.
+6. *Equip de manteniment*. Persones que mantindran el sistema un cop acabat de desenvolupar. La seva principal responsabilitat és garantir la estabilitat de l'aplicació i mantenir-la al capdamunt del mercat.
+
+
+## **4. EL PRODUCTE** ##
 
 ### 4.1. Perspectiva del producte ###
 
-El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent.
+El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació de smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
  
-(AQUÍ HAURÀ D’HAVER-HI UN DIBUIX)
+> AQUÍ HAURÀ D’HAVER-HI UN DIBUIX DE LA CONNECTIVITAT DEL SISTEMA ON HI HAURA ELS NODES SEGUENTS:
+> * SMARTPHONE, PLATAFORMA WEB, INTERNET, USUARI, SERVIDOR, BASE DE DADES.
 
 ### 4.2. Descripció del producte ###
 
@@ -37,7 +47,9 @@ El nostre producte serà principalment una app per a smartphones amb capacitat d
 
 1. *Pagament Satisfactori*. Un cop realitzada l’activitat demanada el client pagarà al treballador el temps acordat.
 2. *Temps suficient*. El client a l’hora de contractar el servei disposa del temps necessari per poder-lo pagar.
-3. *Acords Legals*. Un usuari no tindrà més d’una compte d’usuari per tal de poder-se transferir l’hora inicial de manera indefinida.
+3. *Smartphone o PC*.L'usuari de la comunitat tindrà disponible un smartphone i/o un ordinador per tal d'accedir a l'aplicació.
+4. *Connectivitat*. L'usuari tindrà, sempre que volgui utilitzar l'aplicació, connectivitat a Internet.
+5. *Acords Legals*. Un usuari no tindrà més d’una compte d’usuari per tal de poder-se transferir l’hora inicial de manera indefinida.
  
 ### 4.4. Dependències sobre altres sistemes ###
 
@@ -46,21 +58,22 @@ El nostre producte serà principalment una app per a smartphones amb capacitat d
   
 ### 4.5. Altres requisits ###
 
-1. *Usable*. El sistema ha de ser intuïtiu i fàcil d’usar.
-2. *Eficient*. El sistema ha de respondre a l’usuari en menys de mig segon.
-3. *Legal*. El sistema ha de complir totes les lleis necessàries.
-4. *Disponible*. El sistema ha d’estar disponible sempre.
-5. *Fiable*. El sistema ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
+1. *Aparent*. El sistema ha de disposar d'un disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
+2. *Estilitzat*. El sistema ha de disposar d'un disseny modern i ambiciós
+3. *Usable*. El sistema ha de ser intuïtiu i fàcil d’usar.
+4. *Eficient*. El sistema ha de respondre a l’usuari en menys de mig segon.
+5. *Exacte*. El sistema ha de establir un format determinat per tal d'evitar malentesos entre usuaris.
+6. *Disponible*. El sistema ha d’estar disponible sempre.
+7. *Adaptable*. El sistema ha de funcionar en qualsevol navegador web i smartphone.
+8. *Immune*. El sistema ha d'estar protegit d’atacs externs i infeccions per software maliciós.
+9. *Legal*. El sistema ha de complir totes les lleis necessàries i ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
 
-* FICAR REQUISITS NO FUNCIONALS
+## **5. RECURSOS** ##
 
-## 5. RECURSOS ##
+* [1] http://www.bdtonline.org/
 
-[1] http://www.bdtonline.org/
+* [2] http://www.lavanguardia.com/vida/20100525/53933533287/siete-bancos-de-tiempo-operan-en-barcelona-para-cruzar-favores-entre-socios.html
 
-[2] http://www.lavanguardia.com/vida/20100525/53933533287/siete-bancos-de-tiempo-operan-en-barcelona-para-cruzar-favores-entre-socios.html
+* [3] https://es.wikipedia.org/wiki/Banco_de_tiempo
 
-[3] https://es.wikipedia.org/wiki/Banco_de_tiempo
-
-[4] http://adbdt.org/
-
+* [4] http://adbdt.org/

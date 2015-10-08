@@ -1,7 +1,6 @@
-﻿# SISTEMA ACME - RISCS #
+﻿# **SISTEMA ACME - RISCS** #
 
-
-## RISC 001. Tecnologia antiquada ##
+## **RISC 001. Tecnologia antiquada** ##
 
 ### Descripció ###
 
@@ -29,7 +28,7 @@ Adaptar el disseny actual a la nova tecnologia
 
 
 
-## RISC 002. Tecnologia desconeguda ##
+## **RISC 002. Tecnologia desconeguda** ##
 
 ### Descripció ###
 
@@ -57,7 +56,7 @@ Pactar amb el client un canvi de tecnologia, incorporar a l'equip algú que la c
 
 
 
-## RISC 003. Preu per sobre del acordat ##
+## **RISC 003. Preu per sobre del acordat** ##
 
 ### Descripció ###
 
@@ -85,7 +84,7 @@ Fer-se càrrec del excés sobre el preu acordat, així doncs, les parts interess
 
 
 
-## RISC 004. Pèrdua de personal ##
+## **RISC 004. Pèrdua de personal** ##
 
 ### Descripció ###
 
@@ -113,7 +112,7 @@ Idealment, buscar un substitut el més ràpid possible per ocupar la vacant i no
 
 
 
-## RISC 005. Decisions incorrectes ##
+## **RISC 005. Decisions incorrectes** ##
 
 ### Descripció ###
 
@@ -141,7 +140,7 @@ Restaurar al punt on es va prendre la decisió equivocada i tirar per un altre c
 
 
 
-## RISC 006. Incompliment dels requisits ##
+## **RISC 006. Incompliment dels requisits** ##
 
 ### Descripció ###
 
@@ -169,34 +168,35 @@ Estudiar com afegir aquests requisits no complerts per tal de satisfer als stake
 
 
 
-## RISC 007. Canvi de requisits per part dels Stakeholders##
+## **RISC 007. Canvi de requisits per part dels Stakeholders** ##
 
 ### Descripció ###
-Les parts interessades volen afegir nous requisits o modificar requisits prèviament establerts
+
+Les parts interessades volen afegir nous requisits o modificar requisits prèviament establerts.
 
 ### Probabilitat ###
 
-alta
+Alta.
  
 ### Impacte ###
 
-Depenent de la implicació del canvi, caldrà tornar a fer alguns apartats
+Depenent de la implicació del canvi, caldrà tornar a fer alguns apartats.
 
 ### Indicadors ###
 
-Els Stakeholders ho comuniquen
+Els Stakeholders ho comuniquen.
  
 ### Estratègies de mitigació ###
 
-Realitzar una bona tasca d’enginyeria de requisits que garanteixi que les parts interessades no modifiquin els requisits
+Realitzar una bona tasca d’enginyeria de requisits que garanteixi que les parts interessades no modifiquin els requisits.
 
 ### Plans de mitigació ###
 
-Comunicar qualsevol acció fer amb les parts interessades per tal d’adonar-nos del canvi el més aviat possible.
+Comunicar qualsevol acció a fer amb les parts interessades per tal d’adonar-nos del canvi el més aviat possible.
 
 
 
-## RISC 008.L’inversor del projecte es retira durant el procés ##
+## **RISC 008.L’inversor del projecte es retira durant el procés** ##
 
 ### Descripció ###
 
@@ -204,7 +204,7 @@ L’inversor del projecte decideix que el projecte no s’adequa a les seves exp
 
 ### Probabilitat ###
 
-baixa
+Baixa
  
 ### Impacte ###
 
@@ -212,13 +212,13 @@ Dedicació de temps en buscar un nou inversor o tancament del projecte.
 
 ### Indicadors ###
 
-Ho comunica l’inversor
+Ho comunica l’inversor.
  
 ### Estratègies de mitigació ###
 
-Garantir que l’inversor està satisfet en tot moment amb el projecte
+Garantir que l’inversor està satisfet en tot moment amb el projecte.
 
 ### Plans de mitigació ###
 
-Raonar amb l’inversor o buscar un  de nou
+Raonar amb l’inversor o buscar un de nou.
 
