@@ -4,7 +4,11 @@
 
 > CALDRIA APROFUNDIR MES LA INTRODUCCIO. TOT I QUE ES FIQUI PALLA.
 
-Intercanvi de temps, un terme que encara no està prou concebut per la societat però que aporta una nova manera d’obtenir serveis de forma gratuïta. El sistema que pretenem crear s’aprofita d’aquest concepte i intenta crear una comunitat en la qual tothom pugui oferir les seves habilitats per ajudar a altres persones per tal de guanyar “temps”; el qual utilitzaran per a que altres persones li realitzin tasques que ells no poden realitzar.
+Intercanvi de temps, un terme que encara no està prou concebut per la societat però que aporta una nova manera d’obtenir i oferir serveis. 
+
+El sistema que pretenem crear s’aprofita d’aquest concepte i intenta crear una comunitat en la qual tothom pugui oferir les seves habilitats per ajudar a altres persones a canvi d’obtenir temps. Aquest temps podrà ser utilitzat posteriorment per a que altres persones li realitzin tasques que ells no poden realitzar.
+
+L’intercanvi de temps és un mètode que permet a persones amb dificultats econòmiques, persones amb problemes de salut i persones amb problemes socials puguin obtenir serveis que altrament no podrien. A més a més, permet una millor socialització de les persones participants.
 
 
 ## **2. EL PROBLEMA** ##
@@ -27,7 +31,7 @@ Així doncs, tota aquestes famílies que els hi costa molt arribar a final de me
 
 ### 4.1. Perspectiva del producte ###
 
-El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació de smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
+El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació d’smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
 
 
 ![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/f668b680c968b541343053a34d5b709dab9b8307/EsquemaDeConnectivitat.png?token=891404488748cc49d6008dbe4357e692ccfcf83d)
@@ -49,12 +53,14 @@ El nostre producte serà principalment una app per a smartphones amb capacitat d
 2. *Temps suficient*. El client a l’hora de contractar el servei disposa del temps necessari per poder-lo pagar.
 3. *Smartphone o PC*.L'usuari de la comunitat tindrà disponible un smartphone i/o un ordinador per tal d'accedir a l'aplicació.
 4. *Connectivitat*. L'usuari tindrà, sempre que volgui utilitzar l'aplicació, connectivitat a Internet.
-5. *Acords Legals*. Un usuari no tindrà més d’una compte d’usuari per tal de poder-se transferir l’hora inicial de manera indefinida.
+5. *Acords Legals*. Els usuaris no afectuaran accions fraudulentes que puguin afectar al comportament del sistema.
  
 ### 4.4. Dependències sobre altres sistemes ###
 
 1. *Google Maps*. Per poder filtrar els serveis en funció de la seva localització el sistema interactuarà amb Google Maps.
 2. *Facebook*. Per tal de poder contactar més fàcilment amb altres usuaris i, a la vegada, poder verificar la seva identitat.
+1. *Google Calendar*. Per poder afegir al calendari quan es produirà un servei contractat o quan s’ha d’efectuar un servei ofert.
+
   
 ### 4.5. Altres requisits ###
 
