@@ -28,9 +28,9 @@ Així doncs, tota aquestes famílies que els hi costa molt arribar a final de me
 ### 4.1. Perspectiva del producte ###
 
 El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació de smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
- 
-> AQUÍ HAURÀ D’HAVER-HI UN DIBUIX DE LA CONNECTIVITAT DEL SISTEMA ON HI HAURA ELS NODES SEGUENTS:
-> * SMARTPHONE, PLATAFORMA WEB, INTERNET, USUARI, SERVIDOR, BASE DE DADES.
+
+
+![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/f668b680c968b541343053a34d5b709dab9b8307/EsquemaDeConnectivitat.png?token=891404488748cc49d6008dbe4357e692ccfcf83d)
 
 ### 4.2. Descripció del producte ###
 
