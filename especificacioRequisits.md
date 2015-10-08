@@ -30,6 +30,9 @@
 > etc.
 
 
+![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/762d14a0e45cc6cfe65f057f7544a69d03fc6d5c/mockups.png?token=85d9d82dfd09c732c56409ee3efb8afe551bb044)
+
+
 ## **2. ESPECIFICACIÓ NO FUNCIONAL** ##
 
 **Requisits d’aparença**
