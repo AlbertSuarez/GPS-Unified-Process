@@ -1,37 +1,51 @@
+# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
 
-# SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE #
+## **1. ORGANITZACIÓ I EQUIP** ##
 
-> El propòsit del document de pla de desenvolupament de software és determinar l'esforç, cost i calendari a nivell de projecte (distingint només les 4 fases)
+> AFEGIR UNA BONA DESCRIPCIO PER A CADA UN DELS MEMBRES (FEINA PER A PERE)
 
-
-## 1. ORGANITZACIÓ I EQUIP ##
-
-> Descriure breument l'organització i l'equip de treball (quins rols, quants treballadors de cada rol)
 El nostre equip estarà organitzat de la següent manera:
-- Cap de projecte
-- Analista
-- 2 Desenvolupadors/Administradors del sistema
 
-## 2. ESTIMACIÓ D'ESFORÇ ##
+* *Cap de projecte*:
+
+* *Analista senior*:
+
+* *Analista programador*:
+
+* *Disenyador*:
+
+* *Enginyer de Requisits*:
+
+* *Programador Junior*:
+
+* *Tester*:
+
+
+## **2. ESTIMACIÓ D'ESFORÇ** ##
 
 > Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
+> FEINA ALBERT I VICTOR
 
-## 3. ESTIMACIÓ DE COST ##
+
+## **3. ESTIMACIÓ DE COST** ##
 
 > Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 
+> FEINA ALBERT I VICTOR
 
-## 4. PLA DE PROJECTE ##
 
-> Cal organitzar aquesta secció amb la informació més rellevant de les fases. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
+## **4. PLA DE PROJECTE** ##
 
--->distribució típica de les fases 
+> Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
+
+> distribució típica de les fases
 
 	Inception Elaboration Construction Transition
 Effort 	5%	 20% 	 65% 	 10%
 Schedule 	10%	 30%	 50%	 10%
 
 
---->Anàlisi en termes de casos d’ús
+> Anàlisi en termes de casos d’ús
+
 Estat cas d’ús	Inception		Elaboration		Construction	 Transition
 Identificat 	60% 		>80% 		100% 		100% 
 Esboçat 		50% 		60‐70% 		100% 		100%
@@ -40,7 +54,8 @@ Analitzat 		<10% 		20‐40% 		100% 		100%
 Complet 		<5% 		<10% 		<100% 		100%
 
 
--->Percentatge de Rols aproximat
+> Percentatge de Rols aproximat
+
 		Inception		Elaboration	 	Construction	Transition
 Analista s. 	65%		 30%		 5% 		10%
 Arquitecte 		10%		 20%		 15%		 10%
@@ -49,44 +64,65 @@ Program. 		0%		 15%		 40%		 10%
 Tester 		0%		 5%		 15%		 0%
 Gestor p. 		20%		 15%		 15%		 60%
 
--->iteracions --> cal parlar
+> iteracions = cal parlar
 
 
-### INCEPTION ###
-
->punts sobre els q cal parlar
---->Entendre el problema
-
--Establir l’àmbit del project i condicions de frontera
--Determinar els casos d’ús i els seus escenaris principals
--Visualitzar una arquitectura candidata en base a alguns escenaris primaris
--Estimar el cost i planificació temporal
--Identificar possibles riscos
--Preparar l’entorn de treball del projecte
+Per tal de dividir el projecte del sistema del que estem parlant, s'ha decidit dividir en quatre fase (Inception, Elaboration, Construction i Transition), tal i com marca el protocol UP, què és en el que ens basem.
 
 
-### ELABORATION ###
+### Inception ###
 
--->entendre la solució
-• Definir, validar i articular l’arquitectura
-• Considerar riscos arquitectònics significatius
-• Delinear la visió del projecte
-• Demostrar que l’arquitectura suportarà la visió en un temps raonable i a un cost raonable
-• Produir un pla detallat per a la fase de Construcció
-• Refinar l’entorn de treball del projecte
+En aquesta fase, principalment l'objectiu és entendre el problema que se'ns planteja. L'enginyer de requisits i l'analista superior seran els principals protagonistes en aquesta fase. A més a més, el cap de projecte aportarà un valor important en la presa de decisions més importants. I a part, els altres membres, amb més carga de feina però tampoc menyspreables. Les principals tasques a realitzar en aquesta fase seran les següents:
+
+* Establir l’àmbit del projecte i condicions de frontera.
+
+* Determinar els casos d’ús i els seus escenaris principals.
+
+* Visualitzar una arquitectura candidata en base a alguns escenaris primaris.
+
+* Estimar el cost i planificació temporal.
+
+* Identificar possibles riscos.
+
+* Preparar l’entorn de treball del projecte.
 
 
-### CONSTRUCTION ###
+### Elaboration ###
 
--->Obtenir la solució
-• Completar el producte software per a la seva transició a producció
-• Minimitzar els costos de desenvolupament gràcies a l’optimització de recursos
-• Arribar a una qualitat adequada tan ràpidament com es considera pràctic
-• Obtenir versions útils (alfa, beta, i altres versions de proves) tan ràpidament com possible
+En la segona fase, després d'haver entès el problema en la primera fase, ara toca entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador senior i el dissenyador. A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. Les principals feines a fer en la segona fase seran les següents:
 
-### TRANSITION ###
--->lliurar la solució
-• Permetre al client que sigui auto‐suficient en l’ús del producte
-• Obtenir l’aprovació dels interessats
-• Arribar a la configuració final de forma ràpida i efectiva
-En aquesta fase, es decideix si alliberar el producte o no
+* Definir, validar i articular l’arquitectura.
+
+* Considerar riscos arquitectònics significatius.
+
+* Delinear la visió del projecte.
+
+* Demostrar que l’arquitectura suportarà la visió en un temps raonable i a un cost raonable.
+
+* Produir un pla detallat per a la fase de Construcció.
+
+* Refinar l’entorn de treball del projecte.
+
+
+### Construction ###
+
+En aquesta fase el principal objectiu a complir és obtenir la solució plantejada a la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant senior com junior, aportan la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les versions primeres del sistema. En aquesta tercera fase, les tasques a realitzar són les següents:
+
+* Completar el producte software per a la seva transició a producció.
+
+* Minimitzar els costos de desenvolupament gràcies a l’optimització de recursos.
+
+* Arribar a una qualitat adequada tan ràpidament com es considera pràctic.
+
+* Obtenir versions útils (alfa, beta, i altres versions de proves) tan ràpidament com sigui possible.
+
+
+### Transition ###
+
+I per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester. Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. Les feines a fer són les següents:
+
+* Permetre al client que sigui auto‐suficient en l’ús del producte
+* Obtenir l’aprovació dels interessats
+* Arribar a la configuració final de forma ràpida i efectiva
+
+Llavors, finalment en aquesta fase, es decideix si alliberar el producte o no al mercat.
