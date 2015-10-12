@@ -34,10 +34,10 @@ L'usuari podrà oferir serveis, posar-se en contacte amb usuaris per rebre serve
 
 ## **6. RECURSOS** ##
 
-> Si heu usat webs, documents, articles, etc., per basar el vostre estudi, enumereu aquí les referències tal i com es mostra aball. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]" (PROVISIONAL)
+* [1] http://www.bdtonline.org/
 
-[1] recurs 1
+* [2] http://www.lavanguardia.com/vida/20100525/53933533287/siete-bancos-de-tiempo-operan-en-barcelona-para-cruzar-favores-entre-socios.html
 
-[2] recurs 2
+* [3] https://es.wikipedia.org/wiki/Banco_de_tiempo
 
-[3] ...
+* [4] http://adbdt.org/

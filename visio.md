@@ -34,7 +34,7 @@ Així doncs, tota aquestes famílies que els hi costa molt arribar a final de me
 El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació d’smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
 
 
-![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/f668b680c968b541343053a34d5b709dab9b8307/EsquemaDeConnectivitat.png?token=891404488748cc49d6008dbe4357e692ccfcf83d)
+![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/97148a1a27ccfb3e0d85c2fb93ae70f7a7f9e512/EsquemaDeConnectivitat.png?token=499c5cb1928375b8cab567f7a993c08ff775e0b6)
 
 ### 4.2. Descripció del producte ###
 
