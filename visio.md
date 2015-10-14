@@ -1,14 +1,15 @@
-﻿# **SISTEMA ACME - VISIÓ** #
+# **SISTEMA ACME - VISIÓ** #
 
 ## **1. INTRODUCCIÓ** ##
 
-> CALDRIA APROFUNDIR MES LA INTRODUCCIO. TOT I QUE ES FIQUI PALLA.
 
 Intercanvi de temps, un terme que encara no està prou concebut per la societat però que aporta una nova manera d’obtenir i oferir serveis. 
 
-El sistema que pretenem crear s’aprofita d’aquest concepte i intenta crear una comunitat en la qual tothom pugui oferir les seves habilitats per ajudar a altres persones a canvi d’obtenir temps. Aquest temps podrà ser utilitzat posteriorment per a que altres persones li realitzin tasques que ells no poden realitzar.
+El sistema que pretenem crear s’aprofita d’aquest concepte i intenta crear una comunitat en la qual tothom pugui oferir les seves habilitats per ajudar a altres persones a canvi d’obtenir temps. Aquest temps podrà ser canviat posteriorment per un servei realitzat per un altre membre de la comunitat, mantenint així un cicle d'oferiments i recepcions de serveis.
 
-L’intercanvi de temps és un mètode que permet a persones amb dificultats econòmiques, persones amb problemes de salut i persones amb problemes socials puguin obtenir serveis que altrament no podrien. A més a més, permet una millor socialització de les persones participants.
+L’intercanvi de temps és un mètode que permet a persones amb dificultats econòmiques, persones amb problemes de salut i persones amb problemes socials obtenir serveis que altrament no podrien. A més a més, permet una millor socialització de les persones participants.
+
+El nostre sistema, per tant, permetrà obtenir societats amb persones més conscients de la seva comunitat i establir una millor socialització d'aquestes persones amb el seu entorn. 
 
 
 ## **2. EL PROBLEMA** ##
