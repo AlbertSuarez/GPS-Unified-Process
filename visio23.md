@@ -14,19 +14,19 @@ El nostre sistema, per tant, permetrà obtenir societats amb persones més consc
 
 ## **2. EL PROBLEMA** ##
 
-Degut a la crisis actual, molta gent no disposa dels recursos econòmics necessaris per poder afrontar algunes tasques del dia a dia.
+Degut a la crisi actual, molta gent no disposa dels recursos econòmics necessaris per poder afrontar algunes tasques del dia a dia.
  
-A més a més, la situació actual de la nostra societat i la seva evolució, fomenta relacions a distància on cada cop és més comú que els ciutadans desconeixin el seu entorn i la seva comunitat de veins.
+A més a més, la situació actual de la nostra societat i la seva evolució, fomenta relacions a distància on cada cop és més comú que els ciutadans desconeguin el seu entorn i la seva comunitat de veïns.
 
- Arran d'aquesta última problemàtica, també és objecte de preocupació les repercusions que aquest aillament social està causant a les persones d'edat més avançada, incapacitades per realitzar totes les seves tasques i sense suficients ajudes socials. 
+ Arran d'aquesta última problemàtica, també és objecte de preocupació les repercussions que aquest aïllament social està causant a les persones d'edat més avançada, incapacitades per realitzar totes les seves tasques i sense suficients ajudes socials. 
 
 
 ## **3. PARTS INTERESSADES** ##
 
-1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat en rebre serveis, ja sigui per motius econòmics o socials. La seva principal responsabilitat serà la de fer ús de l'aplicació i compartir-la amb els seus per tal de expandir la tendència.
-2. *Inversors*. Seran els responsables de financiar el projecte perquè aquest es pugui iniciar. La seva principal resposabilitat serà aportar l'inversió econòmica necessaria per desenvolupar el projecte.
+1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat a rebre serveis, sigui per motius econòmics o socials. La seva principal responsabilitat serà la de fer ús de l'aplicació i compartir-la amb els seus per tal d'expandir la tendència.
+2. *Inversors*. Seran els responsables de finançar el projecte perquè aquest es pugui iniciar. La seva principal responsabilitat serà aportar l'inversió econòmica necessària per desenvolupar el projecte.
 3. *Proveïdor de serveis al núvol*. Empresa que proveirà de servidors pel funcionament de l'aplicació. La seva principal responsabilitat serà mantenir els servidors en funcionament en tot moment.
-4. *Competidors*. Empreses o particulars que es dedican a la realització d'aplicacions semblants. La seva principal responsabilitat es interesar-se en el desenvolupament del nou software per tal de obtenir idees i millorar el seu respectiu sistema.
+4. *Competidors*. Empreses o particulars que es dediquen a la realització d'aplicacions semblants. La seva principal responsabilitat es interessar-se en el desenvolupament del nou software per tal de obtenir idees i millorar el seu respectiu sistema.
 5. *Equip del projecte*.Persones que dedicaran temps en el desenvolupament del software. La seva principal responsabilitat és aportar temps i esforç per tal d'obtenir una aplicació atesa a les expectatives.
 6. *Equip de manteniment*. Persones que mantindran el sistema un cop acabat de desenvolupar. La seva principal responsabilitat és garantir la estabilitat de l'aplicació i mantenir-la al capdamunt del mercat.
 
@@ -56,8 +56,8 @@ El nostre producte serà principalment una app per a smartphones. No obstant, ta
 1. *Pagament Satisfactori*. Un cop realitzada l’activitat demanada el client pagarà al treballador el temps acordat.
 2. *Temps suficient*. El client a l’hora de contractar el servei disposa del temps necessari per poder-lo pagar.
 3. *Smartphone o PC*.L'usuari de la comunitat disposarà d'un smartphone i/o un ordinador per tal d'accedir a l'aplicació.
-4. *Connectivitat*. L'usuari tindrà, sempre que volgui utilitzar l'aplicació, connectivitat a Internet.
-5. *Acords Legals*. Els usuaris no afectuaran accions fraudulentes que puguin afectar al comportament del sistema.
+4. *Connectivitat*. L'usuari tindrà, sempre que vulgui utilitzar l'aplicació, connectivitat a Internet.
+5. *Acords Legals*. Els usuaris no efectuaran accions fraudulentes que puguin afectar al comportament del sistema.
  
 ### 4.4. Dependències sobre altres sistemes ###
 
@@ -68,7 +68,7 @@ El nostre producte serà principalment una app per a smartphones. No obstant, ta
   
 ### 4.5. Altres requisits ###
 
-1. *Apariència*. El sistema ha de disposar d'un disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
+1. *Aparença*. El sistema ha de disposar d'un disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
 3. *Usabilitat*. El sistema ha de ser intuïtiu i fàcil d’usar.
 4. *Eficiència*. El sistema ha de respondre a l’usuari en menys de mig segon.
 5. *Específic*. El sistema ha de establir un format determinat per tal d'evitar malentesos entre usuaris.
