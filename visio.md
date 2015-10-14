@@ -14,8 +14,11 @@ El nostre sistema, per tant, permetrà obtenir societats amb persones més consc
 
 ## **2. EL PROBLEMA** ##
 
-Degut a la crisis actual, molta gent no disposa dels recursos necessaris per poder afrontar les tasques del dia a dia. A partir d’aquesta problemàtica esta sorgint una nova tendència on la moneda de canvi és el temps enlloc dels diners.
-Així doncs, tota aquestes famílies que els hi costa molt arribar a final de mes, podran sortir d’aquest pou amb l’ajut d’aquesta nova tendència.
+Degut a la crisis actual, molta gent no disposa dels recursos econòmics necessaris per poder afrontar algunes tasques del dia a dia.
+ 
+A més a més, la situació actual de la nostra societat i la seva evolució, fomenta relacions a distància on cada cop és més comú que els ciutadans desconeixin el seu entorn i la seva comunitat de veins.
+
+ Arran d'aquesta última problemàtica, també és objecte de preocupació les repercusions que aquest aillament social està causant a les persones d'edat més avançada, incapacitades per realitzar totes les seves tasques i sense suficients ajudes socials. 
 
 
 ## **3. PARTS INTERESSADES** ##
