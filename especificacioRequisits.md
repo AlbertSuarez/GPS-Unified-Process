@@ -1,31 +1,31 @@
-ï»¿# **SISTEMA ACME - ESPECIFICACIÃ“ DE REQUISITS DEL SOFTWARE** #
+# **SISTEMA ACME - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE** #
 
-## **1. ESPECIFICACIÃ“ FUNCIONAL** ##
+## **1. ESPECIFICACIÓ FUNCIONAL** ##
 
-### 1.1. Diagrama de casos d'Ãºs
+### 1.1. Diagrama de casos d'ús
 
 > PER ARA CORRECTE, TOT I S'HA DE MILLORAR BASTANT.
 
-![Diagrama de casos dâ€™us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/84c11875067262e2a5101efe8237bc91de268216/DiagramaCasosDus.png?token=3b536e9d5a53602e751c5dabc720f67c40e4073c)
+![Diagrama de casos d’us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/523888720a0be6981cf3921f850a6705985153de/Imatges/DiagramaCasosDus.png?token=f6447f4e21096dc70e5f31ac28f6fe29f2453383)
 
 
-> A mÃ©s, per cada cas d'Ãºs, una descripciÃ³ d'una o dues lÃ­nies (fins i tot si el nom Ã©s prou auto-explicatiu, pot no ser necessari)
+> A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
 
-* Cas d'Ãºs UC001 - *nom*: descripciÃ³
+* Cas d'ús UC001 - *nom*: descripció
 
-* Cas d'Ãºs UC002 - *nom*: descripciÃ³
+* Cas d'ús UC002 - *nom*: descripció
 
 * etc...
 
-### 1.2. DescripciÃ³ individual dels casos d'Ãºs
+### 1.2. Descripció individual dels casos d'ús
 
-> Un per un, es descriuen els casos d'Ãºs introduÃ¯ts a la subsecciÃ³ 1.1. Com ja s'ha dit adalt, els casos d'Ãºs s'aniran defining paulatinament
+> Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
 
-#### Cas d'Ãºs UC001 - *nom* ####
+#### Cas d'ús UC001 - *nom* ####
 
-> DescripciÃ³ del primer cas d'Ãºs. Si bÃ© en una especificaciÃ³ "de veritat", escriuriem el curs rellevant d'esdeveniments, excepcions, etc., aquÃ­ ens conformem amb una descripciÃ³ mÃ©s "lleugera"
+> Descripció del primer cas d'ús. Si bé en una especificació "de veritat", escriuriem el curs rellevant d'esdeveniments, excepcions, etc., aquí ens conformem amb una descripció més "lleugera"
 
-#### Cas d'Ãºs UC002 - *nom* ####
+#### Cas d'ús UC002 - *nom* ####
 
 > etc.
 
@@ -33,102 +33,102 @@
 ![Mockups](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/762d14a0e45cc6cfe65f057f7544a69d03fc6d5c/mockups.png?token=85d9d82dfd09c732c56409ee3efb8afe551bb044)
 
 
-## **2. ESPECIFICACIÃ“ NO FUNCIONAL** ##
+## **2. ESPECIFICACIÓ NO FUNCIONAL** ##
 
-**Requisits dâ€™aparenÃ§a**
+**Requisits d’aparença**
 
 *Tipus de requisit segons (Volere)*: 10 a
 
-*DescripciÃ³*: Disseny atractiu i dâ€™Ãºs senzill que convidarÃ  a l'usuari a fer-ne Ãºs.
+*Descripció*: Disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
 
-*JustificaciÃ³ del requisit*: Com l'aplicaciÃ³ treballa sobre un nombre de persones considerable com Ã©s tota Barcelona, cal destacar per l'atractiu de l'aplicaciÃ³ per tal de marcar un abans i un desprÃ©s en l'usuari.
+*Justificació del requisit*: Com l'aplicació treballa sobre un nombre de persones considerable com és tota Barcelona, cal destacar per l'atractiu de l'aplicació per tal de marcar un abans i un després en l'usuari.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si s'obtÃ© una bona valoraciÃ³ dels usuaris en respecte a l'apariencia.
+*Condició de satisfacció*: El requisit se satisfarà si s'obté una bona valoració dels usuaris en respecte a l'apariencia.
 
 
-**Requisits dâ€™estil**
+**Requisits d’estil**
 
 *Tipus de requisit segons (Volere)*: 10 b
 
-*DescripciÃ³*: Disseny modern i ambiciÃ³s, seguint la tenÃ¨ncia en disseny perÃ² destacant en punts especÃ­fics.
+*Descripció*: Disseny modern i ambiciós, seguint la tenència en disseny però destacant en punts específics.
 
-*JustificaciÃ³ del requisit*: La competÃ¨ncia del mercat ens obliga a disposar dâ€™un disseny modern per tal destacar sobre els usuaris.
+*Justificació del requisit*: La competència del mercat ens obliga a disposar d’un disseny modern per tal destacar sobre els usuaris.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si mÃ©s de tres quartes parts dels usuaris consideren un disseny modern.
+*Condició de satisfacció*: El requisit se satisfarà si més de tres quartes parts dels usuaris consideren un disseny modern.
 
 
-**Requisits de facilitat dâ€™Ãºs**
+**Requisits de facilitat d’ús**
 
 *Tipus de requisit segons (Volere)*: 11 a
 
-*DescripciÃ³*: El sistema ha de ser intuÃ¯tiu i fÃ cil d'usar. ComplirÃ  els criteris de temes de disseny, de contingut, d'estructura i de presentaciÃ³ fixats pel W3C.
+*Descripció*: El sistema ha de ser intuïtiu i fàcil d'usar. Complirà els criteris de temes de disseny, de contingut, d'estructura i de presentació fixats pel W3C.
 
-*JustificaciÃ³ del requisit*: Un punt diferenciador important Ã©s que l'usuari pugui fer servir el sistema intuitivament, de manera que no perdi el temps intentant descobrir com funciona i, a mÃ©s a mÃ©s, que qualsevol persona sigui capaÃ§ de familiaritzar-se amb el sistema.
+*Justificació del requisit*: Un punt diferenciador important és que l'usuari pugui fer servir el sistema intuitivament, de manera que no perdi el temps intentant descobrir com funciona i, a més a més, que qualsevol persona sigui capaç de familiaritzar-se amb el sistema.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si un usuari amb poca experiÃ¨ncia en aplicacions consegueix usar-lo sense cap problema.
+*Condició de satisfacció*: El requisit se satisfarà si un usuari amb poca experiència en aplicacions consegueix usar-lo sense cap problema.
 
 
-**Requisits de latÃ¨ncia i velocitat**
+**Requisits de latència i velocitat**
 
 *Tipus de requisit segons (Volere)*: 12 a
 
-*DescripciÃ³*: La resposta del sistema ha de ser de menys d'un segon com a mÃ­nim en el 95% de les operacions.
+*Descripció*: La resposta del sistema ha de ser de menys d'un segon com a mínim en el 95% de les operacions.
 
-*JustificaciÃ³ del requisit*: Un temps de resposta rÃ pid permet que lâ€™usuari no perdi el flux o atenciÃ³ del que esta fent amb el sistema.
+*Justificació del requisit*: Un temps de resposta ràpid permet que l’usuari no perdi el flux o atenció del que esta fent amb el sistema.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si donat un estudi sobre el rendiment de l'aplicaciÃ³, aquest confirma que el temps d'espera en cada acciÃ³ Ã©s menor al segon en el 95% dels casos.
+*Condició de satisfacció*: El requisit se satisfarà si donat un estudi sobre el rendiment de l'aplicació, aquest confirma que el temps d'espera en cada acció és menor al segon en el 95% dels casos.
 
 
-**Requisits de precisiÃ³ o exactitud**
+**Requisits de precisió o exactitud**
 
 *Tipus de requisit segons (Volere)*: 12 c
 
-*DescripciÃ³*: Totes les dates que sâ€™incloguin en lâ€™aplicaciÃ³ tindran el format segÃ¼ent: DD/MM/AAAA
+*Descripció*: Totes les dates que s’incloguin en l’aplicació tindran el format següent: DD/MM/AAAA
 
-*JustificaciÃ³ del requisit*: Ã‰s convenient especificar el format de la data ja que no a tot arreu tÃ© el mateix format i podria provocar malentesos entre els usuaris.
+*Justificació del requisit*: És convenient especificar el format de la data ja que no a tot arreu té el mateix format i podria provocar malentesos entre els usuaris.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si el format de la data i l'hora segueix lâ€™estandard ISO-8601 extens dâ€™estil Europeu (EN 28601).
+*Condició de satisfacció*: El requisit se satisfarà si el format de la data i l'hora segueix l’estandard ISO-8601 extens d’estil Europeu (EN 28601).
 
 
 **Requisit de disponibilitat**
 
 *Tipus de requisit segons (Volere)*: 12 d
 
-*DescripciÃ³*: El sistema haurÃ  d'estar disponible les 24 hores del dia durant els 365 dies que conformen lâ€™any.
+*Descripció*: El sistema haurà d'estar disponible les 24 hores del dia durant els 365 dies que conformen l’any.
 
-*JustificaciÃ³ del requisit*: Els usuaris han de poder utilitzar el sistema en qualsevol moment del dia per tal de poder buscar serveis o oferir-ne.
+*Justificació del requisit*: Els usuaris han de poder utilitzar el sistema en qualsevol moment del dia per tal de poder buscar serveis o oferir-ne.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si el sistema estÃ  disponible i completament funcional tot el temps.
+*Condició de satisfacció*: El requisit se satisfarà si el sistema està disponible i completament funcional tot el temps.
 
 
-**Requisits dâ€™adaptabilitat**
+**Requisits d’adaptabilitat**
 
 *Tipus de requisit segons (Volere)*: 14 c
 
-*DescripciÃ³*: Lâ€™aplicaciÃ³ web ha de poder-se veure correctament en els diferents navegadors mÃ©s utilitzats i en la majoria de smartphones, i tenir les mateixes funcions que ambdos.
+*Descripció*: L’aplicació web ha de poder-se veure correctament en els diferents navegadors més utilitzats i en la majoria de smartphones, i tenir les mateixes funcions que ambdos.
 
-*JustificaciÃ³ del requisit*: L'existÃ¨ncia de diferents navegadors web i sistemes operatius en smartphones obliga a garantir que com a mÃ­nim es veurÃ  de forma correcta.
+*Justificació del requisit*: L'existència de diferents navegadors web i sistemes operatius en smartphones obliga a garantir que com a mínim es veurà de forma correcta.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si el sistema es pot visualitzar correctament en els principals navegadors web i smartphones.
+*Condició de satisfacció*: El requisit se satisfarà si el sistema es pot visualitzar correctament en els principals navegadors web i smartphones.
 
 
-**Requisit dâ€™immunitat**
+**Requisit d’immunitat**
 
 *Tipus de requisit*: 15 e
 
-*DescripciÃ³*: El sistema estÃ  protegit dâ€™atacs externs i infeccions per software maliciÃ³s.
+*Descripció*: El sistema està protegit d’atacs externs i infeccions per software maliciós.
 
-*JustificaciÃ³ del requisit*: Sâ€™ha de garantir la seguretat per evitar posar en risc la disponibilitat del sistema i la privadesa de les dades dels usuaris.
+*Justificació del requisit*: S’ha de garantir la seguretat per evitar posar en risc la disponibilitat del sistema i la privadesa de les dades dels usuaris.
 
-*CondiciÃ³ del requisit*: El requisit se satisfarÃ  si s'implementa la normativa de seguretat internacional ISO-17799 per tal de garantir la seguretat davant d'atacs externs.
+*Condició del requisit*: El requisit se satisfarà si s'implementa la normativa de seguretat internacional ISO-17799 per tal de garantir la seguretat davant d'atacs externs.
 
 
 **Requisits legals**
 
 *Tipus de requisit segons (Volere)*: 17 a
 
-*DescripciÃ³*: Sâ€™aconseguiran tots els drets sobre els serveis externs que sâ€™utilitzin a lâ€™aplicaciÃ³ i a la vegada es complirÃ  les lleis sobre el tractament de dades personals.
+*Descripció*: S’aconseguiran tots els drets sobre els serveis externs que s’utilitzin a l’aplicació i a la vegada es complirà les lleis sobre el tractament de dades personals.
 
-*JustificaciÃ³ del requisit*: Es pactaran acords amb totes les empreses de les que sâ€™utilitzen els seus serveix, arribant a acords sigui amb la Universitat per poder aprofitar la seva plataforma o amb empreses externes. I tambÃ© mostrar transparÃ¨ncia a l'hora de no compartir dades personals per fins no vinculants al sistema.
+*Justificació del requisit*: Es pactaran acords amb totes les empreses de les que s’utilitzen els seus serveix, arribant a acords sigui amb la Universitat per poder aprofitar la seva plataforma o amb empreses externes. I també mostrar transparència a l'hora de no compartir dades personals per fins no vinculants al sistema.
 
-*CondiciÃ³ de satisfacciÃ³*: El requisit se satisfarÃ  si no es rep cap denuncia per part de cap servei extern, ni de cap usuari per Ãºs indegut de les dades personals.
+*Condició de satisfacció*: El requisit se satisfarà si no es rep cap denuncia per part de cap servei extern, ni de cap usuari per ús indegut de les dades personals.
