@@ -6,29 +6,67 @@
 
 > PER ARA CORRECTE, TOT I S'HA DE MILLORAR BASTANT.
 
-![Diagrama de casos d’us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/523888720a0be6981cf3921f850a6705985153de/Imatges/DiagramaCasosDus.png?token=f6447f4e21096dc70e5f31ac28f6fe29f2453383)
-
-
-> A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
-
-* Cas d'ús UC001 - *nom*: descripció
-
-* Cas d'ús UC002 - *nom*: descripció
-
-* etc...
+![Diagrama de casos d’us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/86006fbc5ee3334957c81dd868848f366191a5dd/Imatges/DiagramaCasosDus.png?token=fc5bcf4cf5b44f79c8752bc2f506fdd939689a0e)
 
 ### 1.2. Descripció individual dels casos d'ús
 
-> Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
+#### Cas d'ús UC001 - *Esborrar Usuari* ####
 
-#### Cas d'ús UC001 - *nom* ####
+L'administrador pot esborrar un usuari del sistema si detecta algun error en el compte, activitats ilegals, etc.
 
-> Descripció del primer cas d'ús. Si bé en una especificació "de veritat", escriuriem el curs rellevant d'esdeveniments, excepcions, etc., aquí ens conformem amb una descripció més "lleugera"
+#### Cas d'ús UC002 - *Registrar-se* #### 
 
-#### Cas d'ús UC002 - *nom* ####
+Un usuari pot crear un compte d'usuari i regisrtar-lo en el sistema.
 
-> etc.
+#### Cas d'ús UC003 - *Iniciar Sessió* #### 
 
+Un usuari un cop s'ha enregistrat ja pot utilitzar l'aplicació, però perquè el sistema el reconeixi ha d'iniciar sessió prèviament.
+
+#### Cas d'ús UC004 - *Publicar Servei* #### 
+
+L'usuari pot publicar un servei que ell ofereix a la resta d'usuaris, ha d'especificar el preu (en hores) i donar una descripció del servei.
+
+#### Cas d'ús UC005 - *Esborrar Servei* #### 
+
+Si un usuari decideix que ja no ofereix un servei el pot esborrar, sempre i quan sigui ell el propietari.
+
+#### Cas d'ús UC006 - *Veure Servei* #### 
+
+Un usuari que té a l'aplicació la llista de serveis que li ofereixen, pot seleccionar-ne un i veure l'informació d'aquell en concret.
+
+#### Cas d'ús UC007 - *Modificar Servei* #### 
+
+Un usuari en qualsevol moment pot modificar la descripció o el preu d'un servei, sempre i quan sigui ell el propietari.
+
+#### Cas d'ús UC008 - *Veure Ofertes de Serveis* #### 
+
+Un usuari pot llistar tots els serveis que li ofereixen per tal de triar el que necessita.
+
+#### Cas d'ús UC009 - *Buscar Servei* #### 
+
+L'usuari disposa d'un buscador per trobar serveis posant paraules claus.
+
+#### Cas d'ús UC010 - *Contactar Altre Usuari* #### 
+
+Un cop dins d'un servei en concret, l'usuari pot contactar el propietari del servei via chat dins de la mateixa aplicació.
+
+#### Cas d'ús UC011 - *Valorar un Servei* #### 
+
+Un cop un usuari ha rebut un servei d'un altre usuari, pot valorar el servei rebut per tal de que altres usuaris puguin veure la valoració mitjana del servei.
+
+#### Cas d'ús UC012 - *Pagar Servei* #### 
+
+Un cop un usuari ha rebut un servei d'un altre usuari, ha de pagar aquest servei. L'usuari tindrà l'opció de pagar a l'altre usuari les hores del preu.
+
+#### Cas d'ús UC013 - *Buscar Ubicació a Google Maps* ####
+
+L'usuari pot veure a través de l'API Google Maps l'ubicació exacta on realitza un servei.
+
+#### Cas d'ús UC014 - *Vincular Servei amb Google Calendar* ####
+
+L'usuari quan contracta un servei o un altre usuari li contracta un servei seu, pot decidir sincronitzar-ho amb Google Calendar i d'aquesta manera obtenir un recordatori en el moment desitjat.
+
+#### Mockups ####
 
 ![Mockups](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/762d14a0e45cc6cfe65f057f7544a69d03fc6d5c/mockups.png?token=85d9d82dfd09c732c56409ee3efb8afe551bb044)
 
