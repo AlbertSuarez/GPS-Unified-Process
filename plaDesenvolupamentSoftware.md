@@ -57,9 +57,9 @@ Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el facto
 
 Llavors, hem decidit optar per un factor mig, és dir, prendre PF com 22,5. Aleshores, el càlculs serien els següents.
 
-*UCP = (UUCW + UAW) x TCF x ECF = 111.9976*
+**UCP = (UUCW + UAW) x TCF x ECF = 111.9976**
 
-*Estimació d’esforç = UCP * PF = 2519.95 hores*
+**Estimació d’esforç = UCP * PF = 2519.95 hores**
 
 
 
