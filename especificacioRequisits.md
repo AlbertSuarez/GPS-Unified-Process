@@ -6,7 +6,7 @@
 
 > PER ARA CORRECTE, TOT I S'HA DE MILLORAR BASTANT.
 
-![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/84c11875067262e2a5101efe8237bc91de268216/DiagramaCasosDus.png?token=3b536e9d5a53602e751c5dabc720f67c40e4073c)
+![Diagrama de casos d’us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/84c11875067262e2a5101efe8237bc91de268216/DiagramaCasosDus.png?token=3b536e9d5a53602e751c5dabc720f67c40e4073c)
 
 
 > A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
@@ -30,7 +30,7 @@
 > etc.
 
 
-![](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/762d14a0e45cc6cfe65f057f7544a69d03fc6d5c/mockups.png?token=85d9d82dfd09c732c56409ee3efb8afe551bb044)
+![Mockups](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/762d14a0e45cc6cfe65f057f7544a69d03fc6d5c/mockups.png?token=85d9d82dfd09c732c56409ee3efb8afe551bb044)
 
 
 ## **2. ESPECIFICACIÓ NO FUNCIONAL** ##

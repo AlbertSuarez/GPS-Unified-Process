@@ -98,3 +98,5 @@ I per últim, en aquesta quarta fase l'objectiu primordial i principal és lliur
 * Arribar a la configuració final de forma ràpida i efectiva
 
 Llavors, finalment en aquesta fase, es decideix si alliberar el producte o no al mercat.
+
+![Percentage de rols aproximat]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/41b8dc3682c9709577d338db2b21b4a99fdae350/Imatges/PercentatgeDeRolsAproximat.PNG?token=036aee3fc0389cac9bf89f00beeb8e44f8b300e5)
