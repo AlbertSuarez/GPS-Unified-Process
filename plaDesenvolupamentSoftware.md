@@ -1,4 +1,4 @@
-# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
+﻿# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
 
 ## **1. ORGANITZACIÓ I EQUIP** ##
 
@@ -15,6 +15,8 @@ El nostre equip estarà organitzat de la següent manera:
 * *Disenyador*:
 
 * *Enginyer de Requisits*:
+
+* *Programador Senior*:
 
 * *Programador Junior*:
 
@@ -36,36 +38,6 @@ El nostre equip estarà organitzat de la següent manera:
 ## **4. PLA DE PROJECTE** ##
 
 > Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
-
-> distribució típica de les fases
-
-	Inception Elaboration Construction Transition
-Effort 	5%	 20% 	 65% 	 10%
-Schedule 	10%	 30%	 50%	 10%
-
-
-> Anàlisi en termes de casos d’ús
-
-Estat cas d’ús	Inception		Elaboration		Construction	 Transition
-Identificat 	60% 		>80% 		100% 		100% 
-Esboçat 		50% 		60‐70% 		100% 		100%
-Refinat 		10% 		40‐80% 		100% 		100%
-Analitzat 		<10% 		20‐40% 		100% 		100%
-Complet 		<5% 		<10% 		<100% 		100%
-
-
-> Percentatge de Rols aproximat
-
-		Inception		Elaboration	 	Construction	Transition
-Analista s. 	65%		 30%		 5% 		10%
-Arquitecte 		10%		 20%		 15%		 10%
-Analista p. 	5%		 15%		 10%		 10%
-Program. 		0%		 15%		 40%		 10%
-Tester 		0%		 5%		 15%		 0%
-Gestor p. 		20%		 15%		 15%		 60%
-
-> iteracions = cal parlar
-
 
 Per tal de dividir el projecte del sistema del que estem parlant, s'ha decidit dividir en quatre fase (Inception, Elaboration, Construction i Transition), tal i com marca el protocol UP, què és en el que ens basem.
 
