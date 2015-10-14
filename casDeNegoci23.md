@@ -1,17 +1,20 @@
-﻿# **SISTEMA ACME - CAS DE NEGOCI** #
+# **SISTEMA ACME - CAS DE NEGOCI** #
 
 ## **1. DESCRIPCIÓ DEL PRODUCTE** ##
 
-El nostre producte serà una aplicació software per a smartphones el cual soportarà iOS i Android en les últimes versions dels dos. També s'hi podrà accedir via web amb el compte d'usuari.
-L'aplicació permetrà intercanviar temps amb altres usuaris per tal de poder donar i rebre serveis sense necessitar de pagar amb diners. La moneda de canvi del nostre aplicatiu és el temps.
-L'usuari podrà oferir serveis, posar-se en contacte amb usuaris per rebre serveis, valorar un servei un cop realitzat i pagar el servei amb temps.
+El nostre producte serà una aplicació software per a smartphones què suportarà els sistemes operatius iOS i Android en les últimes versions dels dos. També s'hi podrà accedir via web.
+
+L'aplicació permetrà intercanviar temps amb altres usuaris per tal de poder donar i rebre serveis sense necessitar pagar amb diners. La moneda de canvi del nostre sistema és el temps.
+
+Els usuaris podran oferir serveis, posar-se en contacte amb altres usuaris per rebre serveis, valorar un servei rebut i pagar el servei amb temps.
 
 ## **2. CONTEXT DE NEGOCI** ##
 
-* El sector del negoci és el del comerç privat.
-* El producte va destinat als habitants de Barcelona, el qual cadascun d'ells utilitzarà l'aplicació vía smartphone o web.
-* La vida prevista de l'aplicació és infinita, ja que aquesta nova tendència de l'intercanvi de temps s'està expandint cada cop en més magnitud.
-* La nostra aplicació permetrà obtenir ingressos a partir de publicitat i venta d’estadístiques i dades.
+EL nostre sistema es desenvoluparà mitjançant inversions d'entitats privades. Un cop desenvolupat, els costos d'inversió i de manteniment es recuperaran mitjançant la incorporació de publicitat i la venta de dades per estudis estadístics. Aproximadament es recuperarà la inversió inicial en menys de 3 anys.
+
+S'espera que el temps de vida del sistema sigui de més de 10 anys, ja que la tendència de banc del temps s'està incrementant de forma exponencial en els últims anys degut als factors socials.
+
+Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garantir beneficis a partir dels 3 anys aproximadament. 
 
 ## **3. OBJECTIUS DEL PRODUCTE** ##
 
@@ -26,7 +29,7 @@ L'usuari podrà oferir serveis, posar-se en contacte amb usuaris per rebre serve
 1. *Dirigida als clients*. L'aplicació només funcionarà per aquells clients el quals estiguin registrats en el sistema i formin part de la comunitat.
 2. *Disponibilitat*. L'aplicació no garanteix el 100% de disponibilitat degut a possibles activitats de manteniment.
 3. *Intercanvi*. La funcionalitat principal de l'aplicació, l'intercanvi de temps, només funcionarà correctament si els dos usuaris implicats segueixen la filosofia del sistema.
-4. *Connectivitat*. El sistema només funcionarà quan l'usuari que la utilitzi disposi d'accès a Internet a través d'una connectivitat tant sigui Wi-Fi com 3G/4G.
+4. *Connectivitat*. El sistema només funcionarà quan l'usuari que la utilitzi disposi d'accés a Internet a través d'una connectivitat tant sigui Wi-Fi com 3G/4G.
 
 ## **5. PREVISIÓ FINANCERA** ##
 
