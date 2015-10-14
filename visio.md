@@ -23,11 +23,11 @@ A més a més, la situació actual de la nostra societat i la seva evolució, fo
 
 ## **3. PARTS INTERESSADES** ##
 
-1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat en rebre serveis sense la necessitat d’haver de pagar per aquest. També existeix el cas contrari en el que la persona vol oferir un servei per tal de guanyar temps d’intercanvi. La seva principal responsabilitat serà la de fer ús de l'aplicació i compartir-la amb els seus per tal de expandir la tendència.
-2. *Inversors*. Seran els responsables de financiar el projecte perquè aquest pogui iniciar. La seva principal resposabilitat serà la d'aportar els diners suficients per al projecte.
-3. *Proveïdor de serveis al núvol*. Empresa que proveirà de servidors pel funcionament de l'aplicació al web. La seva principal responsabilitat serà aportar els coneixements requerits i necessaris per tal de desenvolupar el software en línia.
+1. *Habitants de Barcelona*. Qualsevol habitant de Barcelona pot estar interessat en rebre serveis, ja sigui per motius econòmics o socials. La seva principal responsabilitat serà la de fer ús de l'aplicació i compartir-la amb els seus per tal de expandir la tendència.
+2. *Inversors*. Seran els responsables de financiar el projecte perquè aquest es pugui iniciar. La seva principal resposabilitat serà aportar l'inversió econòmica necessaria per desenvolupar el projecte.
+3. *Proveïdor de serveis al núvol*. Empresa que proveirà de servidors pel funcionament de l'aplicació. La seva principal responsabilitat serà mantenir els servidors en funcionament en tot moment.
 4. *Competidors*. Empreses o particulars que es dedican a la realització d'aplicacions semblants. La seva principal responsabilitat es interesar-se en el desenvolupament del nou software per tal de obtenir idees i millorar el seu respectiu sistema.
-5. *Equip del projecte*.Persones que dedicaran més temps en el desenvolupament del software. La seva principal responsabilitat és aportar temps i esforç per tal d'obtenir una aplicació atesa a les expectatives.
+5. *Equip del projecte*.Persones que dedicaran temps en el desenvolupament del software. La seva principal responsabilitat és aportar temps i esforç per tal d'obtenir una aplicació atesa a les expectatives.
 6. *Equip de manteniment*. Persones que mantindran el sistema un cop acabat de desenvolupar. La seva principal responsabilitat és garantir la estabilitat de l'aplicació i mantenir-la al capdamunt del mercat.
 
 
@@ -35,27 +35,27 @@ A més a més, la situació actual de la nostra societat i la seva evolució, fo
 
 ### 4.1. Perspectiva del producte ###
 
-El nostre producte serà principalment una app per a smartphones amb capacitat de tenir una altra plataforma via web per si l’usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació d’smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
+El nostre producte serà principalment una app per a smartphones. No obstant, també s'incorporarà una plataforma web per comoditat de l'usuari o per si l'usuari no disposa d’un telèfon intel·ligent. Tant l'aplicació d’smartphone com la plataforma web requereixen connectivitat a Internet per dur a terme la seva funcionalitat.
 
 
 ![Esquema de connectivitat](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/97148a1a27ccfb3e0d85c2fb93ae70f7a7f9e512/EsquemaDeConnectivitat.png?token=499c5cb1928375b8cab567f7a993c08ff775e0b6)
 
 ### 4.2. Descripció del producte ###
 
-1. *Registrar-se*. Per poder utilitzar l’aplicació has de formar part del nostre sistema. 
-2. *Iniciar Sessió*. Per poder utilitzar l’aplicació has d’iniciar sessió. 
-3. *Oferir un servei*. L’usuari pot crear un anunci dient que ofereix.
+1. *Registrar-se*. Per poder utilitzar l’aplicació, l'usuari s'ha d'incorporar al sistema. 
+2. *Iniciar Sessió*. Per poder utilitzar l’aplicació l'usuari ha d’iniciar sessió. 
+3. *Oferir un servei*. L’usuari pot crear un anunci especificant quin servei ofereix.
 4. *Veure ofertes de serveis*. L’usuari pot veure un llistat d’ofertes d’altres usuaris per trobar el que necessita.
-5. *Contactar amb un altre usuari*. L’usuari quan troba l’anunci que estava buscant pot contactar amb l’altre usuari per tal de quedar amb ell i acordar els termes del “contracte”.
-6. *Valorar el servei d’un usuari*. Un cop realitzada la tasca l’usuari pot valorar el servei realitzat i la professionalitat d’aquest.
-7. *Intercanviar temps amb un altre usuari*. Els clients un cop s’ha realitzat la tasca acordada han de pagar al treballador el temps acordat.
+5. *Contactar amb un altre usuari*. L’usuari, en trobar l'oferta de servei que necessita, pot contactar amb l’usuari que l'ofereix per tal d'establir un acord en la realització del servei.
+6. *Valorar el servei d’un usuari*. Un cop realitzada la tasca, l’usuari pot valorar el servei realitzat.
+7. *Intercanviar temps amb un altre usuari*. Un cop realitzat el servei, l'usuari realitzador de la tasca ha de rebre el temps acordat per part de l'usuari receptor.
 
  
 ### 4.3. Supòsits de funcionament ###
 
 1. *Pagament Satisfactori*. Un cop realitzada l’activitat demanada el client pagarà al treballador el temps acordat.
 2. *Temps suficient*. El client a l’hora de contractar el servei disposa del temps necessari per poder-lo pagar.
-3. *Smartphone o PC*.L'usuari de la comunitat tindrà disponible un smartphone i/o un ordinador per tal d'accedir a l'aplicació.
+3. *Smartphone o PC*.L'usuari de la comunitat disposarà d'un smartphone i/o un ordinador per tal d'accedir a l'aplicació.
 4. *Connectivitat*. L'usuari tindrà, sempre que volgui utilitzar l'aplicació, connectivitat a Internet.
 5. *Acords Legals*. Els usuaris no afectuaran accions fraudulentes que puguin afectar al comportament del sistema.
  
@@ -68,15 +68,14 @@ El nostre producte serà principalment una app per a smartphones amb capacitat d
   
 ### 4.5. Altres requisits ###
 
-1. *Aparent*. El sistema ha de disposar d'un disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
-2. *Estilitzat*. El sistema ha de disposar d'un disseny modern i ambiciós
-3. *Usable*. El sistema ha de ser intuïtiu i fàcil d’usar.
-4. *Eficient*. El sistema ha de respondre a l’usuari en menys de mig segon.
-5. *Exacte*. El sistema ha de establir un format determinat per tal d'evitar malentesos entre usuaris.
-6. *Disponible*. El sistema ha d’estar disponible sempre.
-7. *Adaptable*. El sistema ha de funcionar en qualsevol navegador web i smartphone.
-8. *Immune*. El sistema ha d'estar protegit d’atacs externs i infeccions per software maliciós.
-9. *Legal*. El sistema ha de complir totes les lleis necessàries i ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
+1. *Apariència*. El sistema ha de disposar d'un disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
+3. *Usabilitat*. El sistema ha de ser intuïtiu i fàcil d’usar.
+4. *Eficiència*. El sistema ha de respondre a l’usuari en menys de mig segon.
+5. *Específic*. El sistema ha de establir un format determinat per tal d'evitar malentesos entre usuaris.
+6. *Disponibilitat*. El sistema ha d’estar disponible sempre.
+7. *Adaptabilitat*. El sistema ha de funcionar en qualsevol navegador web i smartphone.
+8. *Immunitat*. El sistema ha d'estar protegit d’atacs externs i infeccions per software maliciós.
+9. *Legalitat*. El sistema ha de complir totes les lleis necessàries i ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
 
 ## **5. RECURSOS** ##
 
