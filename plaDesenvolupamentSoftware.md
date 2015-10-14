@@ -12,21 +12,55 @@ El nostre equip estarà organitzat de la següent manera:
 
 * *Analista programador*:
 
-* *Disenyador*:són els encarregades de definir l’aplicació en sí, quines funcionalitats tindrà i com estarà distribuïda. Hi haurà 3 dissenyadors.
+* *Disenyador*: són els encarregades de definir l’aplicació en sí, quines funcionalitats tindrà i com estarà distribuïda. Hi haurà 3 dissenyadors.
 
 * *Enginyer de Requisits*: són els responsables d’establir els requisits que haurà de complir el projecte per tal de satisfer les necessitats bàsiques del client. Hi haurà 3 enginyers de requisits.
 
-* *Programador Senior*:2
+* *Programador Senior*: 2
 
-* *Programador Junior*:1
+* *Programador Junior*: 1
 
 * *Tester*:
 
 
 ## **2. ESTIMACIÓ D'ESFORÇ** ##
 
-> Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
-> FEINA ALBERT I VICTOR
+L’estimació de l’esforç del nostre sistema l’hem calculat seguint el model UCPA amb el respectius paràmetres a calcular:
+
+* *Actors*: s’ha de tenir en compte qualsevol entitat externa al sistema que interacciona amb ell. Cadascun d’ells se li atorga un pes entre 1 i 3 depenent de si és un altre sistema que ofereix API o requereix un altre tipus de comunicació o bé és una interacció humana (GUI). A partir d’això obtenim el valor *UAW*.
+
+* *Casos d’ús*: també s’ha de valorar el flux d’esdeveniments per assolir un objectiu. Cadascun d’aquests se’ls ha valorat segons la seva complexitat (Simple, Mig o Complex) i atorgant-li un pes (5, 10 o 15 respectivament). S’obtindrà el valor *UUCW*.
+
+* *Complexitats tècniques*: disposa d’un catàleg de 13 factors on cal fixar-ne el pes basat en la complexitat d’aquest i la prioritat, és a dir, la importància en el projecte. El valor obtingut serà el *TCF*.
+
+* *Factors d’entorn*: es té en compte 8 factors on es representen els factors relacionals al projecte, context, etc., que no són governables i que poden influir en el projecte. Cadascun d’aquests té un pes. S’obté el valor *ECF*.
+
+A continuació es disposa de les taules on es fa el càlcul dels 4 paràmetres explicats anteriorment.
+
+![Actors]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/Actors.PNG?token=4fe204e7073829d2f0460e49f922760a16b9d5ad)
+
+![Casos d’Us]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/CasosDUs.PNG?token=3702aa8c316c1b4cdc0245661257ee78f7a2bd93)
+
+![Complexitats Tecniques]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/ComplexitatsTecniques.PNG?token=480e3ab401902de644544460593bee5275d2479d)
+
+![Factors d’entorn]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/EstimacioDEsforc.PNG?token=fa787325725546fda7ca707f09d5d33b4f7873de)
+
+
+
+Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el factor PF, contingut entre 15 i 30, donat en base a alguns factors com:
+
+* *Entregar la feina en el termini indicat*.
+
+* *Compliment del pressupost*.
+
+* *Experiència en treball en equip*.
+
+Llavors, hem decidit optar per un factor mig, és dir, prendre PF com 22,5. Aleshores, el càlculs serien els següents.
+
+*UCP = (UUCW + UAW) x TCF x ECF = 111.9976*
+
+*Estimació d’esforç = UCP * PF = 2519.95 hores*
+
 
 
 ## **3. ESTIMACIÓ DE COST** ##
