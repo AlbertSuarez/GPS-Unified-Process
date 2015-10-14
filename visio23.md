@@ -1,4 +1,4 @@
-# **SISTEMA ACME - VISIÓ** #
+﻿# **SISTEMA ACME - VISIÓ** #
 
 ## **1. INTRODUCCIÓ** ##
 
@@ -42,13 +42,21 @@ El nostre producte serà principalment una app per a smartphones. No obstant, ta
 
 ### 4.2. Descripció del producte ###
 
-1. *Registrar-se*. Per poder utilitzar l’aplicació, l'usuari s'ha d'incorporar al sistema. 
-2. *Iniciar Sessió*. Per poder utilitzar l’aplicació l'usuari ha d’iniciar sessió. 
-3. *Oferir un servei*. L’usuari pot crear un anunci especificant quin servei ofereix.
-4. *Veure ofertes de serveis*. L’usuari pot veure un llistat d’ofertes d’altres usuaris per trobar el que necessita.
-5. *Contactar amb un altre usuari*. L’usuari, en trobar l'oferta de servei que necessita, pot contactar amb l’usuari que l'ofereix per tal d'establir un acord en la realització del servei.
-6. *Valorar el servei d’un usuari*. Un cop realitzada la tasca, l’usuari pot valorar el servei realitzat.
-7. *Intercanviar temps amb un altre usuari*. Un cop realitzat el servei, l'usuari realitzador de la tasca ha de rebre el temps acordat per part de l'usuari receptor.
+1. *Esborrar Usuari*. Es pot esborrar un usuari si aquest no ha seguit les regles de la comunitat.
+2. *Registrar-se*. Per poder utilitzar l’aplicació, l'usuari s'ha d'incorporar al sistema. 
+3. *Iniciar Sessió*. Per poder utilitzar l’aplicació l'usuari ha d’iniciar sessió. 
+4. *Oferir un servei*. L’usuari pot crear un anunci especificant quin servei ofereix.
+5. *Retirar un servei*. L’usuari pot esborrar el seu anunci.
+6. *Veure un servei*. Es pot veure la informació d’un servei.
+7. *Modificar un servei*. Es pot modificar la informació d’un servei.
+6. *Veure ofertes de serveis*. L’usuari pot veure un llistat d’ofertes d’altres usuaris per trobar el que necessita.
+8. *Contactar amb un altre usuari*. L’usuari, en trobar l'oferta de servei que necessita, pot contactar amb l’usuari que l'ofereix per tal d'establir un acord en la realització del servei.
+9. *Buscar servei*. Es pot buscar un servei a través de paraules clau.
+10. *Contactar amb un usuari*. L’usuari podrà contactar amb un altres usuari de la comunitat.
+11. *Valorar el servei d’un usuari*. Un cop realitzada la tasca, l’usuari pot valorar el servei realitzat.
+12. *Intercanviar temps amb un altre usuari*. Un cop realitzat el servei, l'usuari realitzador de la tasca ha de rebre el temps acordat per part de l'usuari receptor.
+13. *Buscar ubicació*. L’usuari podrà saber concretament on es realitza un servei.
+14. *Vincular amb el calendari personal*. L’usuari podrà vincular-se l’esdeveniment en el seu propi calendari.
 
  
 ### 4.3. Supòsits de funcionament ###
