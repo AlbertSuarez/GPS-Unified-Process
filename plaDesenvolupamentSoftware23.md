@@ -4,7 +4,7 @@
 
 El nostre equip estarà organitzat de la següent manera:
 
-* Cap de projecte*: és l'encarregat de liderar el grup I assegurar-se que cada persona compleixi amb les expectatives. També és el responsable de distribuir els salaris de la resta de treballadors. El cap de projecte és una sola persona.
+* *Cap de projecte*: és l'encarregat de liderar el grup I assegurar-se que cada persona compleixi amb les expectatives[4]. També és el responsable de distribuir els salaris de la resta de treballadors. El cap de projecte és una sola persona.
 
 * *Analista sènior*: és qui ha de tenir un coneixement profund sobre les tècniques I recursos que s'usen, és necessari que domini els llenguatges de programació que se li demanin.
 
@@ -12,7 +12,7 @@ El nostre equip estarà organitzat de la següent manera:
 
 * *Dissenyador*: és l'encarregat de definir l’aplicació en si, quines funcionalitats tindrà i com estarà distribuïda. Hi haurà 3 dissenyadors.
 
-* *Enginyer de Requisits*: és el responsable d’establir els requisits que haurà de complir el projecte per tal de satisfer les necessitats bàsiques del client. Hi haurà 3 enginyers de requisits.
+* *Enginyer de Requisits[5]*: és el responsable d’establir els requisits que haurà de complir el projecte per tal de satisfer les necessitats bàsiques del client. Hi haurà 3 enginyers de requisits.
 
 * *Programador Sènior*: són els encarregats de redactar tot el codi per tal que l'aplicació faci tot el que els dissenyadors defineixen en les especificacions. Hi haurà 2 programadors sènior.
 
@@ -25,9 +25,9 @@ El nostre equip estarà organitzat de la següent manera:
 
 L’estimació de l’esforç del nostre sistema l’hem calculat seguint el model UCPA amb el respectius paràmetres a calcular:
 
-* *Actors*: s’ha de tenir en compte qualsevol entitat externa al sistema que interacciona amb ell. Cadascun d’ells se li atorga un pes entre 1 i 3 depenent de si és un altre sistema que ofereix API o requereix un altre tipus de comunicació o bé és una interacció humana (GUI). A partir d’això obtenim el valor *UAW*.
+* *Actors[1]*: s’ha de tenir en compte qualsevol entitat externa al sistema que interacciona amb ell. Cadascun d’ells se li atorga un pes entre 1 i 3 depenent de si és un altre sistema que ofereix API o requereix un altre tipus de comunicació o bé és una interacció humana (GUI). A partir d’això obtenim el valor *UAW*.
 
-* *Casos d’ús*: també s’ha de valorar el flux d’esdeveniments per assolir un objectiu. Cadascun d’aquests se’ls ha valorat segons la seva complexitat (Simple, Mig o Complex) i atorgant-li un pes (5, 10 o 15 respectivament). S’obtindrà el valor *UUCW*.
+* *Casos d’ús[3]*: també s’ha de valorar el flux d’esdeveniments per assolir un objectiu. Cadascun d’aquests se’ls ha valorat segons la seva complexitat (Simple, Mig o Complex) i atorgant-li un pes (5, 10 o 15 respectivament). S’obtindrà el valor *UUCW*.
 
 * *Complexitats tècniques*: disposa d’un catàleg de 13 factors on cal fixar-ne el pes basat en la complexitat d’aquest i la prioritat, és a dir, la importància en el projecte. El valor obtingut serà el *TCF*.
 
