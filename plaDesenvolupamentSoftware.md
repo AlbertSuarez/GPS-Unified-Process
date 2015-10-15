@@ -71,12 +71,14 @@ Llavors, hem decidit optar per un factor mig, és dir, prendre PF com 22,5. Ales
 
 > Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
 
-Per tal de dividir el projecte del sistema del que estem parlant, s'ha decidit dividir en quatre fase (Inception, Elaboration, Construction i Transition), tal i com marca el protocol UP, què és en el que ens basem.
+Per tal de garantir una bona organització del desenvolupament del projecte,s'ha decidit dividir en quatre fase (Inception, Elaboration, Construction i Transition),
+tal i com marca el protocol UP, què és en el que ens basem.
 
 
 ### Inception ###
 
-En aquesta fase, principalment l'objectiu és entendre el problema que se'ns planteja. L'enginyer de requisits i l'analista superior seran els principals protagonistes en aquesta fase. A més a més, el cap de projecte aportarà un valor important en la presa de decisions més importants. I a part, els altres membres, amb més carga de feina però tampoc menyspreables. Les principals tasques a realitzar en aquesta fase seran les següents:
+En aquesta fase, principalment l'objectiu és entendre el problema que se'ns planteja. L'enginyer de requisits i l'analista superior seran els principals protagonistes en aquesta fase.
+A més a més, el cap de projecte aportarà un valor important en la presa de decisions.Les principals tasques a realitzar en aquesta fase seran les següents:
 
 * Establir l’àmbit del projecte i condicions de frontera.
 
@@ -93,7 +95,8 @@ En aquesta fase, principalment l'objectiu és entendre el problema que se'ns pla
 
 ### Elaboration ###
 
-En la segona fase, després d'haver entès el problema en la primera fase, ara toca entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador senior i el dissenyador. A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. Les principals feines a fer en la segona fase seran les següents:
+En la segona fase, després d'un estudi del context i entendre el problema, cal entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador senior i el dissenyador. 
+A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. Les principals feines a fer en la segona fase seran les següents:
 
 * Definir, validar i articular l’arquitectura.
 
@@ -110,7 +113,8 @@ En la segona fase, després d'haver entès el problema en la primera fase, ara t
 
 ### Construction ###
 
-En aquesta fase el principal objectiu a complir és obtenir la solució plantejada a la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant senior com junior, aportan la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les versions primeres del sistema. En aquesta tercera fase, les tasques a realitzar són les següents:
+En aquesta fase el principal objectiu és obtenir la solució plantejada durant la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant senior com junior,
+ aportan la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. En aquesta tercera fase, les tasques a realitzar són les següents:
 
 * Completar el producte software per a la seva transició a producció.
 
@@ -123,7 +127,8 @@ En aquesta fase el principal objectiu a complir és obtenir la solució planteja
 
 ### Transition ###
 
-I per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester. Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. Les feines a fer són les següents:
+Per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester.
+Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. Les feines a fer són les següents:
 
 * Permetre al client que sigui auto‐suficient en l’ús del producte
 * Obtenir l’aprovació dels interessats
@@ -133,8 +138,16 @@ Llavors, finalment en aquesta fase, es decideix si alliberar el producte o no al
 
 
 
-En definitiva, aquest seria el percentatge de rols aproximat subdividit en les 4 fases marcades pel protocol UP.
-
-
+A continuació es mostra una taula representativa dels percentatges de treball per rol subdividit en les 4 fases marcades pel protocol UP.
 
 ![Percentatge de rols aproximat]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/41b8dc3682c9709577d338db2b21b4a99fdae350/Imatges/PercentatgeDeRolsAproximat.PNG?token=036aee3fc0389cac9bf89f00beeb8e44f8b300e5)
+
+Quant als casos d'ús, la distribució de fases plantejada pel protocol UP, estableix:
+
+ - La identificació s'ha de dur a terme principalment durant les faces d'inception i Elaboration.
+ - L'esboçat s'ha de plantejar a la fase d'inception i s'ha d'acabar completament durant la fase Construction.
+ - El refinat s'elabora principalment a les fases Elaboration i Construction
+ - L'analisi es realitza durant les fases Elaboration i construction
+ - A la fase de Transition el cas d'us ha destar complert.
+ 
+ ![Analisi en termes de cas d'ús](https://bitbucket.org/AlbertSuarez/gps-up-23/src/2d6e71a2a5d31dc9f26d58d0185052978c0bcc4a/Imatges/AnalisisEnTermeDeCasosDUs.PNG?at=master&fileviewer=file-view-default)
