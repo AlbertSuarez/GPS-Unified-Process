@@ -33,7 +33,12 @@ Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garan
 
 ## **5. PREVISIÓ FINANCERA** ##
 
-> Si el producte és per comercialitzar, el cas de negoci ha d'incloure un conjunt de supòsits sobre el projecte (p.e., nombre potencial de compradors/clients) i una previsió de guanys (a partir de quin moment començarem a recuperar la inversió, i quin serà el guany anual a partir d'aquell moment). Aquesta previsió necessitarà saber el cost del projecte, per la qual cosa aquest apartat no es pot completar fins tenir aquesta dada. A més, és la típica secció que s'anirà actualitzant contínuament (i.e., després de cada iteració UP) (PROVISIONAL)
+L'aplicació es desenvoluparà per a un ús social, partim de la idea de millorar els tractes humans a la ciutat i ajudar a la gent, per tant, donem prioritat al bon funcionament i adaptació enfront un gran marge de guanys.
+El projecte es finançarà bàsicament amb publicitat i, amb un pes menor, amb els comptes prèmium en les quals no existirà publicitat. A més, es vendran algunes dades per a estudis estadístics.
+
+- Quan començarem a guanyar?
+- Quan guanyarem cada any?
+
 
 ## **6. RECURSOS** ##
 
