@@ -63,7 +63,7 @@ Llavors, hem decidit optar per un factor mig i prendre PF com 22,5. Aleshores, e
 
 ## **3. ESTIMACIÓ DE COST** ##
 
-La estimació del cost del nostre sistema ve donat de molts factors com el nombre de treballadors, el repartiment d'hores respecte els membres de l'equip, marge de benefici i així un llarg etcétera.
+L'estimació del cost del nostre sistema ve donat de molts factors com el nombre de treballadors, el repartiment d'hores respecte als membres de l'equip, marge de benefici i així un llarg etcètera.
 
 Per començar, cal tenir en compte el *Schedule* de les 4 fases del nostre sistema (Inception, Elaboration, Construction i Transition). Llavors dividim les hores de treball obtingudes en l'apartat anterior en els percentatges marcats. Aleshores, s'ha de decidir el salari per hora de cada membre de l'equip i la seva respectiva responsabilitat sobre el projecte. Després donat el *Schedule* mencionat i la distribució en percentatges dels rols del nostre sistema, obtenim les hores que hi dedicarà cada membre de l'equip. I llavors, simplement, multipliquem pel salari de cadascun d'ells.
 
