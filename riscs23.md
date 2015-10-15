@@ -1,4 +1,4 @@
-# **SISTEMA ACME - RISCS** #
+﻿# **SISTEMA ACME - RISCS** #
 
 ## **RISC 001. Tecnologia antiquada** ##
 
@@ -24,7 +24,7 @@ Comprovar si la companyia dissenyadora de la tecnologia està pensant en una de 
  
 ### Plans de mitigació ###
 
-Adaptar el disseny actual a la nova tecnologia
+- Adaptar el disseny actual a la nova tecnologia
 
 
 
@@ -84,9 +84,7 @@ Fer un estudi profund sobre les despeses del projecte i dels possibles imprevist
 
 
 
-- Parlar amb les parts interessades perquè aportin més capital. 
-
-
+- Parlar amb les parts interessades perquè aportin més capital.
 - Buscar un nou inversor.
 
 
@@ -144,7 +142,7 @@ Estudiar amb cura cada decisió que es pren.
 
 ### Plans de mitigació ###
 
-Restaurar al punt on es va prendre la decisió equivocada i tirar per un altre camí.
+- Restaurar al punt on es va prendre la decisió equivocada i tirar per un altre camí.
 
 
 
@@ -201,7 +199,7 @@ Realitzar una bona tasca d’enginyeria de requisits que garanteixi que les part
 
 ### Plans de mitigació ###
 
-Comunicar qualsevol acció a fer amb les parts interessades per tal d’adonar-nos del canvi el més aviat possible.
+- Comunicar qualsevol acció a fer amb les parts interessades per tal d’adonar-nos del canvi el més aviat possible.
 
 
 

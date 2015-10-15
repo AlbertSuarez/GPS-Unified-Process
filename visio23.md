@@ -1,4 +1,4 @@
-# **SISTEMA ACME - VISIÓ** #
+﻿# **SISTEMA ACME - VISIÓ** #
 
 ## **1. INTRODUCCIÓ** ##
 
@@ -93,6 +93,6 @@ El nostre producte serà principalment una app per a smartphones. No obstant, ta
 
 * [3] “Banco De Tiempo.” - *Wikipedia, La Enciclopedia Libre*. Accessed October 15, 2015. https://es.wikipedia.org/wiki/banco_de_tiempo.
 
-* [4] “Inicio.” *Asociacin Para El Desarrollo De Los Bancos De Tiempo*. Accessed October 15, 2015. http://adbdt.org/.
+* [4] “Inicio.” *Asociación Para El Desarrollo De Los Bancos De Tiempo*. Accessed October 15, 2015. http://adbdt.org/.
 
 * [5] “4time - Banco Del Tiempo - Android Apps on Google Play.” *4time - Banco Del Tiempo - Android Apps on Google Play*. Accessed October 15, 2015. https://play.google.com/store/apps/details?id=es.fourtime.app. 

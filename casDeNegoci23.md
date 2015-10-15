@@ -1,4 +1,4 @@
-# **SISTEMA ACME - CAS DE NEGOCI** #
+﻿# **SISTEMA ACME - CAS DE NEGOCI** #
 
 ## **1. DESCRIPCIÓ DEL PRODUCTE** ##
 
@@ -17,8 +17,6 @@ S'espera que el temps de vida del sistema sigui de més de 10 anys, ja que la te
 Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garantir beneficis a partir dels 3 anys aproximadament. 
 
 ## **3. OBJECTIUS DEL PRODUCTE** ##
-
-> Enumereu els objectius que pretén cobrir el sistema (PROVISIONAL)
 
 1. *Objectiu 1*. Descripció
 2. *Objectiu 2*. Descripció 
@@ -48,4 +46,6 @@ El projecte es finançarà bàsicament amb publicitat i, amb un pes menor, amb e
 
 * [3] “Banco De Tiempo.” - *Wikipedia, La Enciclopedia Libre*. Accessed October 15, 2015. https://es.wikipedia.org/wiki/banco_de_tiempo.
 
-* [4] “Inicio.” *Asociacin Para El Desarrollo De Los Bancos De Tiempo*. Accessed October 15, 2015. http://adbdt.org/.
+* [4] “Inicio.” *Asociación Para El Desarrollo De Los Bancos De Tiempo*. Accessed October 15, 2015. http://adbdt.org/.
+
+* [5] “4time - Banco Del Tiempo - Android Apps on Google Play.” *4time - Banco Del Tiempo - Android Apps on Google Play*. Accessed October 15, 2015. https://play.google.com/store/apps/details?id=es.fourtime.app.

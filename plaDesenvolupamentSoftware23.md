@@ -1,4 +1,4 @@
-# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
+﻿# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
 
 ## **1. ORGANITZACIÓ I EQUIP** ##
 
@@ -25,9 +25,9 @@ El nostre equip estarà organitzat de la següent manera:
 
 L’estimació de l’esforç del nostre sistema l’hem calculat seguint el model UCPA amb el respectius paràmetres a calcular:
 
-* *Actors[1]*: s’ha de tenir en compte qualsevol entitat externa al sistema que interacciona amb ell. Cadascun d’ells se li atorga un pes entre 1 i 3 depenent de si és un altre sistema que ofereix API o requereix un altre tipus de comunicació o bé és una interacció humana (GUI). A partir d’això obtenim el valor *UAW*.
+* *Actors*[1]: s’ha de tenir en compte qualsevol entitat externa al sistema que interacciona amb ell. Cadascun d’ells se li atorga un pes entre 1 i 3 depenent de si és un altre sistema que ofereix API o requereix un altre tipus de comunicació o bé és una interacció humana (GUI). A partir d’això obtenim el valor *UAW*.
 
-* *Casos d’ús[3]*: també s’ha de valorar el flux d’esdeveniments per assolir un objectiu. Cadascun d’aquests se’ls ha valorat segons la seva complexitat (Simple, Mig o Complex) i atorgant-li un pes (5, 10 o 15 respectivament). S’obtindrà el valor *UUCW*.
+* *Casos d’ús*[3]: també s’ha de valorar el flux d’esdeveniments per assolir un objectiu. Cadascun d’aquests se’ls ha valorat segons la seva complexitat (Simple, Mig o Complex) i atorgant-li un pes (5, 10 o 15 respectivament). S’obtindrà el valor *UUCW*.
 
 * *Complexitats tècniques*: disposa d’un catàleg de 13 factors on cal fixar-ne el pes basat en la complexitat d’aquest i la prioritat, és a dir, la importància en el projecte. El valor obtingut serà el *TCF*.
 

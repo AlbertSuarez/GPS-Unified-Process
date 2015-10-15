@@ -72,7 +72,7 @@ L'usuari quan contracta un servei o un altre usuari li contracta un servei seu, 
 
 #### Mockups ####
 
-Per tal d’entendre millor el sistema, a continuació es disposa d’un seguit d’imatges on es mostra visualment l’aproximació de com seria l’aplicació Time Barter (en angles: *Trueque de Tiempo*).
+Per tal d’entendre millor el sistema, a continuació es disposa d’un seguit d’imatges on es mostra visualment l’aproximació de com seria l’aplicació Time Barter (en angles: *Intercanvi de Temps*).
 
 
 
