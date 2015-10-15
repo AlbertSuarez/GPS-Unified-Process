@@ -33,8 +33,8 @@ Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garan
 
 ## **5. PREVISIÓ FINANCERA** ##
 
-L'aplicació es desenvoluparà per a un ús social,partim de la idea de millorar els tractes humans a la ciutat i ajudar a la gent, per tant, donem prioritat al bon funcionament i adaptació enfront un gran marge de guanys.
-El projecte es finançarà bàsicament amb publicitat i, amb un pes menor, amb les comptes premium en les quals no existirà publicitat. A més, es vendran algunes dades per a estudis estadístics.
+L'aplicació es desenvoluparà per a un ús social, partim de la idea de millorar els tractes humans a la ciutat i ajudar a la gent, per tant, donem prioritat al bon funcionament i adaptació enfront un gran marge de guanys.
+El projecte es finançarà bàsicament amb publicitat i, amb un pes menor, amb els comptes prèmium en les quals no existirà publicitat. A més, es vendran algunes dades per a estudis estadístics.
 
 - Quan començarem a guanyar?
 - Quan guanyarem cada any?
