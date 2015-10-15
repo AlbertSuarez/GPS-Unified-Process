@@ -39,13 +39,13 @@ A continuació es disposa de les taules on es fa el càlcul dels 4 paràmetres e
 
 ![Casos d’Us]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/CasosDUs.PNG?token=3702aa8c316c1b4cdc0245661257ee78f7a2bd93)
 
-![Complexitats Tecniques]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/ComplexitatsTecniques.PNG?token=480e3ab401902de644544460593bee5275d2479d)
+![Complexitats Tècniques]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/ComplexitatsTecniques.PNG?token=480e3ab401902de644544460593bee5275d2479d)
 
 ![Factors d’entorn]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/b41ce6eeb02b8c2930552b6360782111c9062c19/Imatges/EstimacioDEsforc.PNG?token=fa787325725546fda7ca707f09d5d33b4f7873de)
 
 
 
-Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el factor PF, contingut entre 15 i 30, donat en base a alguns factors com:
+Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el factor PF, contingut entre 15 i 30, donat dacord amb alguns factors com:
 
 * *Entregar la feina en el termini indicat*.
 
@@ -53,7 +53,7 @@ Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el facto
 
 * *Experiència en treball en equip*.
 
-Llavors, hem decidit optar per un factor mig, és dir, prendre PF com 22,5. Aleshores, el càlculs serien els següents.
+Llavors, hem decidit optar per un factor mig i prendre PF com 22,5. Aleshores, els càlculs serien els següents.
 
 **UCP = (UUCW + UAW) x TCF x ECF = 111.9976**
 
@@ -64,15 +64,14 @@ Llavors, hem decidit optar per un factor mig, és dir, prendre PF com 22,5. Ales
 ## **3. ESTIMACIÓ DE COST** ##
 
 > Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 
-> FEINA ALBERT I VICTOR
 
 
 ## **4. PLA DE PROJECTE** ##
 
 > Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
 
-Per tal de garantir una bona organització del desenvolupament del projecte,s'ha decidit dividir en quatre fase (Inception, Elaboration, Construction i Transition),
-tal i com marca el protocol UP, què és en el que ens basem.
+Per tal de garantir una bona organització del desenvolupament del projecte, s'ha decidit dividir en quatre fases (Inception, Elaboration, Construction i Transition),
+tal com marca el protocol UP, què és en el que ens basem.
 
 
 ### Inception ###
@@ -84,7 +83,7 @@ A més a més, el cap de projecte aportarà un valor important en la presa de de
 
 * Determinar els casos d’ús i els seus escenaris principals.
 
-* Visualitzar una arquitectura candidata en base a alguns escenaris primaris.
+* Visualitzar una arquitectura candidata basant-se en alguns escenaris primaris.
 
 * Estimar el cost i planificació temporal.
 
@@ -95,7 +94,7 @@ A més a més, el cap de projecte aportarà un valor important en la presa de de
 
 ### Elaboration ###
 
-En la segona fase, després d'un estudi del context i entendre el problema, cal entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador senior i el dissenyador. 
+En la segona fase, després d'un estudi del context i entendre el problema, cal entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador sènior i el dissenyador. 
 A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. Les principals feines a fer en la segona fase seran les següents:
 
 * Definir, validar i articular l’arquitectura.
@@ -113,8 +112,8 @@ A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte
 
 ### Construction ###
 
-En aquesta fase el principal objectiu és obtenir la solució plantejada durant la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant senior com junior,
- aportan la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. En aquesta tercera fase, les tasques a realitzar són les següents:
+En aquesta fase el principal objectiu és obtenir la solució plantejada durant la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant sènior com junior,
+ aporten la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. En aquesta tercera fase, les tasques a realitzar són les següents:
 
 * Completar el producte software per a la seva transició a producció.
 
@@ -130,7 +129,7 @@ En aquesta fase el principal objectiu és obtenir la solució plantejada durant 
 Per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester.
 Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. Les feines a fer són les següents:
 
-* Permetre al client que sigui auto‐suficient en l’ús del producte
+* Permetre al client que sigui autosuficient en l’ús del producte
 * Obtenir l’aprovació dels interessats
 * Arribar a la configuració final de forma ràpida i efectiva
 
@@ -144,12 +143,12 @@ A continuació es mostra una taula representativa dels percentatges de treball p
 
 Quant als casos d'ús, la distribució de fases plantejada pel protocol UP, estableix:
 
- - La identificació s'ha de dur a terme principalment durant les faces d'inception i Elaboration.
- - L'esboçat s'ha de plantejar a la fase d'inception i s'ha d'acabar completament durant la fase Construction.
- - El refinat s'elabora principalment a les fases Elaboration i Construction
+ - La identificació s'ha de dur a terme principalment durant les fases d'inception i Elaboration.
+ - L'esbossat s'ha de plantejar a la fase d'inception i s'ha d'acabar completament durant la fase Construction.
+ - El refinament s'elabora principalment a les fases Elaboration i Construction
  - L'analisi es realitza durant les fases Elaboration i construction
- - A la fase de Transition el cas d'us ha destar complert.
+ - A la fase de Transition el cas d'ús ha d'estar complet.
  
- A continuació es mostra una taula que reflexa l'analisi de les fases d'un cas d'us subdividit segons el seu estat per fase de projecte:
+ A continuació es mostra una taula que reflecteix l'anàlisi de les fases d'un cas d'ús subdividit segons el seu estat per fase de projecte:
  
- ![Analisi en termes de cas d'ús](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/736414a4c9a980ac7a1766de55a26bd50b0b7704/Imatges/AnalisisEnTermeDeCasosDUs.PNG?token=7c8802819606af03765b3c34649f8f7cb7b37c19)
+ ![Anàlisi en termes de cas d'ús](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/736414a4c9a980ac7a1766de55a26bd50b0b7704/Imatges/AnalisisEnTermeDeCasosDUs.PNG?token=7c8802819606af03765b3c34649f8f7cb7b37c19)
