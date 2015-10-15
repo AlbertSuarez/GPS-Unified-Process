@@ -150,4 +150,4 @@ Quant als casos d'ús, la distribució de fases plantejada pel protocol UP, esta
  - L'analisi es realitza durant les fases Elaboration i construction
  - A la fase de Transition el cas d'us ha destar complert.
  
- ![Analisi en termes de cas d'ús](https://bitbucket.org/AlbertSuarez/gps-up-23/src/2d6e71a2a5d31dc9f26d58d0185052978c0bcc4a/Imatges/AnalisisEnTermeDeCasosDUs.PNG?at=master&fileviewer=file-view-default)
+ ![Analisi en termes de cas d'ús](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/736414a4c9a980ac7a1766de55a26bd50b0b7704/Imatges/AnalisisEnTermeDeCasosDUs.PNG?token=7c8802819606af03765b3c34649f8f7cb7b37c19)
