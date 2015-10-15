@@ -42,10 +42,10 @@ El projecte es finançarà bàsicament amb publicitat i, amb un pes menor, amb e
 
 ## **6. RECURSOS** ##
 
-* [1] http://www.bdtonline.org/
+* [1] “Inicio.” *BdTonlineorg*. Accessed October 15, 2015. http://www.bdtonline.org/.
 
-* [2] http://www.lavanguardia.com/vida/20100525/53933533287/siete-bancos-de-tiempo-operan-en-barcelona-para-cruzar-favores-entre-socios.html
+* [2] “Siete Bancos De Tiempo Operan En Barcelona Para Cruzar Favores Entre Socios.” *LA VANGUARDIA*, 2010. http://www.lavanguardia.com/vida/20100525/53933533287/siete-bancos-de-tiempo-operan-en-barcelona-para-cruzar-favores-entre-socios.html.
 
-* [3] https://es.wikipedia.org/wiki/Banco_de_tiempo
+* [3] “Banco De Tiempo.” - *Wikipedia, La Enciclopedia Libre*. Accessed October 15, 2015. https://es.wikipedia.org/wiki/banco_de_tiempo.
 
-* [4] http://adbdt.org/
+* [4] “Inicio.” *Asociacin Para El Desarrollo De Los Bancos De Tiempo*. Accessed October 15, 2015. http://adbdt.org/.
