@@ -1,4 +1,4 @@
-﻿# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
+# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
 
 ## **1. ORGANITZACIÓ I EQUIP** ##
 
@@ -14,7 +14,7 @@ El nostre equip estarà organitzat de la següent manera:
 
 * *Enginyer de Requisits*: és el responsable d’establir els requisits que haurà de complir el projecte per tal de satisfer les necessitats bàsiques del client. Hi haurà 3 enginyers de requisits.
 
-* *Programador Sènior*: són els encarregats de redactar tot el codi per tal que l'aplicació faci tot el que els dissenyadors defineixen en les especificacions. Hi haurà programadors sènior.
+* *Programador Sènior*: són els encarregats de redactar tot el codi per tal que l'aplicació faci tot el que els dissenyadors defineixen en les especificacions. Hi haurà 2 programadors sènior.
 
 * *Programador Junior*: A partir de la documentació, és l'encarregat de traduir a un llenguatge comprensible per la màquina les ordres precises per a l'execució.
 
