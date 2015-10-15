@@ -63,13 +63,24 @@ Llavors, hem decidit optar per un factor mig, és dir, prendre PF com 22,5. Ales
 
 ## **3. ESTIMACIÓ DE COST** ##
 
-> Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 
-> FEINA ALBERT I VICTOR
+La estimació del cost del nostre sistema ve donat de molts factors com el nombre de treballadors, el repartiment d'hores respecte els membres de l'equip, marge de benefici i així un llarg etcétera.
+
+Per començar, cal tenir en compte el *Schedule* de les 4 fases del nostre sistema (Inception, Elaboration, Construction i Transition). Llavors dividim les hores de treball obtingudes en l'apartat anterior en els percentatges marcats. Aleshores, s'ha de decidir el salari per hora de cada membre de l'equip i la seva respectiva responsabilitat sobre el projecte. Després donat el *Schedule* mencionat i la distribució en percentatges dels rols del nostre sistema, obtenim les hores que hi dedicarà cada membre de l'equip. I llavors, simplement, multipliquem pel salari de cadascun d'ells.
+
+![Distribució típica de les fase](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/DistribucioTipicaDeLesFases.PNG?token=b8aeed46238d1fcf0592e35a03ddfdb605efe843)
+
+![Estimació del Cost 1](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/EstimacioCost1.png?token=f61ad8a8fa5abdb0a13a06af64d7b302018e20a7)
+
+![Estimació del Cost 2](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/EstimacioCost2.png?token=71940610a453918d787ced2ac6e8850a2a2bb5ac)
+
+![Estimació del Cost 3](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/EstimacioCost3.png?token=9a193399dcbe857a4dc681a3fa85ff432d7e69e5)
+
+![Estimació del Cost 4](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/EstimacioCost4.png?token=faed22ea899c963eaa45e20388b7a265afdf44e6)
+
+Per tant, donat 13 treballadors, on tenim un cost fix de 200€ en terme de lloc de treball per treballador, obtenim un cost salarial de 35,967.19€ (tenint en compte el 40% de la cotització a la Seguretat Social). Llavors a aquest cos, hem de tenir en compte els costos estructurals (un 17.5%), que sorgeix el cost final de 42,261.45€. I per últim, s'ha de valorar el marge de benefici (d'un 50%) i el percentatge de contingències (10%). Amb tot això, surt un pressupost final de **69,731.39€**.
 
 
 ## **4. PLA DE PROJECTE** ##
-
-> Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
 
 Per tal de garantir una bona organització del desenvolupament del projecte,s'ha decidit dividir en quatre fase (Inception, Elaboration, Construction i Transition),
 tal i com marca el protocol UP, què és en el que ens basem.
