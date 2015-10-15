@@ -2,25 +2,23 @@
 
 ## **1. ORGANITZACIÓ I EQUIP** ##
 
-> AFEGIR UNA BONA DESCRIPCIO PER A CADA UN DELS MEMBRES (FEINA PER A PERE)
-
 El nostre equip estarà organitzat de la següent manera:
 
-* *Cap de projecte*:
+* Cap de projecte*: és l'encarregat de liderar el grup I assegurar-se que cada persona compleixi amb les expectatives. També és el responsable de distribuir els salaris de la resta de treballadors. El cap de projecte és una sola persona.
 
-* *Analista senior*:
+* *Analista sènior*: és qui ha de tenir un coneixement profund sobre les tècniques I recursos que s'usen, és necessari que domini els llenguatges de programació que se li demanin.
 
-* *Analista programador*:
+* *Analista programador*: és el treballador a qui li correspon programar les parts més complicades del programa I totes les parts que l'analista li ordeni.
 
-* *Disenyador*: són els encarregades de definir l’aplicació en sí, quines funcionalitats tindrà i com estarà distribuïda. Hi haurà 3 dissenyadors.
+* *Dissenyador*: és l'encarregat de definir l’aplicació en si, quines funcionalitats tindrà i com estarà distribuïda. Hi haurà 3 dissenyadors.
 
-* *Enginyer de Requisits*: són els responsables d’establir els requisits que haurà de complir el projecte per tal de satisfer les necessitats bàsiques del client. Hi haurà 3 enginyers de requisits.
+* *Enginyer de Requisits*: és el responsable d’establir els requisits que haurà de complir el projecte per tal de satisfer les necessitats bàsiques del client. Hi haurà 3 enginyers de requisits.
 
-* *Programador Senior*: 2
+* *Programador Sènior*: són els encarregats de redactar tot el codi per tal que l'aplicació faci tot el que els dissenyadors defineixen en les especificacions. Hi haurà programadors sènior.
 
-* *Programador Junior*: 1
+* *Programador Junior*: A partir de la documentació, és l'encarregat de traduir a un llenguatge comprensible per la màquina les ordres precises per a l'execució.
 
-* *Tester*:
+* *Tester*: és el treballador que realitza els tests per la qualificació del personal. Corregeix i valora la feina d'acord amb les plantilles i barems continguts en els manuals i redacta el corresponent informe.
 
 
 ## **2. ESTIMACIÓ D'ESFORÇ** ##
