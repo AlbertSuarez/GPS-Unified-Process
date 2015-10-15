@@ -77,13 +77,13 @@ El nostre producte serà principalment una app per a smartphones. No obstant, ta
 ### 4.5. Altres requisits ###
 
 1. *Aparença*. El sistema ha de disposar d'un disseny atractiu i d’ús senzill que convidarà a l'usuari a fer-ne ús.
-3. *Usabilitat*. El sistema ha de ser intuïtiu i fàcil d’usar.
-4. *Eficiència*. El sistema ha de respondre a l’usuari en menys de mig segon.
-5. *Específic*. El sistema ha de establir un format determinat per tal d'evitar malentesos entre usuaris.
-6. *Disponibilitat*. El sistema ha d’estar disponible sempre.
-7. *Adaptabilitat*. El sistema ha de funcionar en qualsevol navegador web i smartphone.
-8. *Immunitat*. El sistema ha d'estar protegit d’atacs externs i infeccions per software maliciós.
-9. *Legalitat*. El sistema ha de complir totes les lleis necessàries i ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
+2. *Usabilitat*. El sistema ha de ser intuïtiu i fàcil d’usar.
+3. *Eficiència*. El sistema ha de respondre a l’usuari en menys d'un segon.
+4. *Precís*. El sistema ha de establir un format determinat per tal d'evitar malentesos entre usuaris.
+5. *Disponibilitat*. El sistema ha d’estar disponible sempre.
+6. *Adaptabilitat*. El sistema ha de funcionar en qualsevol navegador web i smartphone.
+7. *Immunitat*. El sistema ha d'estar protegit d’atacs externs i infeccions per software maliciós.
+8. *Legalitat*. El sistema ha de complir totes les lleis necessàries i ha de garantir a l’usuari que les seves dades estaran protegides segons les lleis.
 
 ## **5. RECURSOS** ##
 
