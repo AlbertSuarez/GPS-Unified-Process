@@ -9,8 +9,6 @@
 
 ![Diagrama de casos d’us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/86006fbc5ee3334957c81dd868848f366191a5dd/Imatges/DiagramaCasosDus.png?token=fc5bcf4cf5b44f79c8752bc2f506fdd939689a0e)
 
-### 1.2. Descripció individual dels casos d'ús
-
 #### Cas d'ús UC001 - *Esborrar Usuari* ####
 
 L'administrador pot esborrar un usuari del sistema si detecta algun error en el compte, activitats il·legals, incompliments de les regles de la comunitat, etc.
@@ -67,7 +65,63 @@ L'usuari pot veure a través de l'API Google Maps la ubicació exacta on realitz
 
 L'usuari quan contracta un servei o un altre usuari li contracta un servei seu, pot decidir sincronitzar-ho amb Google Calendar i d'aquesta manera obtenir un recordatori en el moment desitjat.
 
+### 1.2. Descripció individual dels casos d'ús (interacció)
 
+#### Cas d'ús UC001 - *Esborrar Usuari* ####
+
+L'administrador indica al sistema que vol esborrar un usuari, el sistema l'esborra ja que l'hi ha demanat l'administrador i té permís.
+
+#### Cas d'ús UC002 - *Registrar-se* ####
+
+Un usuari indica al sistema que es vol registrar, el sistema li mostra el formulari de registre, l'usuari l'omple i el sistema l'enregistra.
+
+#### Cas d'ús UC003 - *Iniciar Sessió* ####
+
+Un usuari un cop s'ha enregistrat al sistema indica al sistema que vol iniciar sessió, el sistema mostra el formulari d'inici, l'usuari l'omple i el sistema l'hi dona accés.
+
+#### Cas d'ús UC004 - *Publicar Servei* ####
+
+L'usuari indica que vol publicar un servei, el sistema mostra el formulari de publicar un servei, l'usuari omple tots els camps i el sistema publica el servei.
+
+#### Cas d'ús UC005 - *Esborrar Servei* ####
+
+L'usuari indica que vol esborrar un servei en concret, el sistema li mostra un avís dient si està segur de voler esborrar-lo, l'usuari confirma i el sistema l'esborra.
+
+#### Cas d'ús UC006 - *Veure Servei* ####
+
+L'usuari indica que vol veure un servei en concret i el sistema li mostra tota l'informació del servei.
+
+#### Cas d'ús UC007 - *Modificar Servei* ####
+
+L'usuari indica que vol modificar un servei concret, el sistema li mostra el formulari de crear un servei però omplert amb la informació existent, l'ususari modifica els camps que desitji i el sistema enregistra els canvis.
+
+#### Cas d'ús UC008 - *Veure Ofertes de Serveis* ####
+
+L'usuari indica al sistema que desitja veure els serveis disponibles, el sistema li mostra una llista amb tots els serveis disponibles de més recent a més antic.
+
+#### Cas d'ús UC009 - *Buscar Servei* ####
+
+L'usuari escriu la paraula clau en el buscador, el sistema mostra totes les coincidencies de les que disposa.
+
+#### Cas d'ús UC010 - *Contactar Altre Usuari* ####
+
+LL'usuari dins d'un servei, pot indicar que vol contactar amb l'usuari que l'ofereix, el sistema li obre un chat directe a l'altre usuari i a l'altre usuari li arriba una notificació de chat.
+
+#### Cas d'ús UC011 - *Valorar un Servei* ####
+
+L'usuari dins d'un servei indica que ja l'ha rebut i el vol valorar, el sistema obre una pantalla amb 5 estrelles on l'usuari li dona una valoració de 1 a 5 i el sistema enregistra la valoració i recalcula la valoració mitjana del servei.
+
+#### Cas d'ús UC012 - *Pagar Servei* ####
+
+L'usuari dins d'un servei indica que ja l'ha rebut i el vol pagar, el sistema obre un cuadre de confirmació de pagament, l'usuari confirma i el sistema transfereix el temps d'un usuari a l'altre.
+
+#### Cas d'ús UC013 - *Buscar Ubicació a Google Maps* ####
+
+L'usuari indica que vol veure l'ubicació d'un servei, el sistema utilitza la API Google Maps i li mostra un mapa amb la situació exacta.
+
+#### Cas d'ús UC014 - *Vincular Servei amb Google Calendar* ####
+
+L'usuari indica que vol vincular un servei amb Google Calendar per tal de rebre un recordatori el dia i hora acordats, el sistema li crea l'avís a la API Google Calendar.
 
 
 #### Mockups ####
