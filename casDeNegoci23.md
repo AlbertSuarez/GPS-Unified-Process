@@ -1,4 +1,4 @@
-﻿# **SISTEMA ACME - CAS DE NEGOCI** #
+# **SISTEMA ACME - CAS DE NEGOCI** #
 
 ## **1. DESCRIPCIÓ DEL PRODUCTE** ##
 
@@ -10,7 +10,7 @@ Els usuaris podran oferir serveis, posar-se en contacte amb altres usuaris per r
 
 ## **2. CONTEXT DE NEGOCI** ##
 
-EL nostre sistema es desenvoluparà mitjançant inversions d'entitats privades. Un cop desenvolupat, els costos d'inversió i de manteniment es recuperaran mitjançant la incorporació de publicitat i la venta de dades per estudis estadístics. Aproximadament es recuperarà la inversió inicial en menys de 3 anys.
+El nostre sistema es desenvoluparà mitjançant inversions d'entitats privades. Un cop desenvolupat, els costos d'inversió i de manteniment es recuperaran mitjançant la incorporació de publicitat i la venta de dades per estudis estadístics. Aproximadament es recuperarà la inversió inicial en menys de 3 anys.
 
 S'espera que el temps de vida del sistema sigui de més de 10 anys, ja que la tendència de banc del temps s'està incrementant de forma exponencial en els últims anys degut als factors socials.
 

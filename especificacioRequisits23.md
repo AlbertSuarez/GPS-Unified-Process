@@ -1,11 +1,8 @@
-﻿# **SISTEMA ACME - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE** #
+# **SISTEMA ACME - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE** #
 
 ## **1. ESPECIFICACIÓ FUNCIONAL** ##
 
 ### 1.1. Diagrama de casos d'ús
-
-
-
 
 ![Diagrama de casos d’us](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/86006fbc5ee3334957c81dd868848f366191a5dd/Imatges/DiagramaCasosDus.png?token=fc5bcf4cf5b44f79c8752bc2f506fdd939689a0e)
 
@@ -65,63 +62,65 @@ L'usuari pot veure a través de l'API Google Maps la ubicació exacta on realitz
 
 L'usuari quan contracta un servei o un altre usuari li contracta un servei seu, pot decidir sincronitzar-ho amb Google Calendar i d'aquesta manera obtenir un recordatori en el moment desitjat.
 
+
+
 ### 1.2. Descripció individual dels casos d'ús (interacció)
 
 #### Cas d'ús UC001 - *Esborrar Usuari* ####
 
-L'administrador indica al sistema que vol esborrar un usuari, el sistema l'esborra ja que l'hi ha demanat l'administrador i té permís.
+L'administrador indica al Sistema que vol esborrar un usuari determinat. Llavors el Sistema l'esborra de la seva Base de Dades sense problemes ja que l'administrador té els permíssos necessaris per l'acció.
 
 #### Cas d'ús UC002 - *Registrar-se* ####
 
-Un usuari indica al sistema que es vol registrar, el sistema li mostra el formulari de registre, l'usuari l'omple i el sistema l'enregistra.
+Un usuari indica al Sistema que es vol registrar. Aleshores el Sistema li mostra el formulari de registre, l'usuari l'omple amb les dades requerides i el Sistema l'enregistra a la Base de Dades.
 
 #### Cas d'ús UC003 - *Iniciar Sessió* ####
 
-Un usuari un cop s'ha enregistrat al sistema indica al sistema que vol iniciar sessió, el sistema mostra el formulari d'inici, l'usuari l'omple i el sistema l'hi dona accés.
+Un usuari, un cop registrat al Sistema, li indica que vol iniciar sessió. Llavors el Sistema mostra el formulari d'inici, l'usuari l'omple correctament i el sistema l'hi dóna accés a l'aplicació.
 
 #### Cas d'ús UC004 - *Publicar Servei* ####
 
-L'usuari indica que vol publicar un servei, el sistema mostra el formulari de publicar un servei, l'usuari omple tots els camps i el sistema publica el servei.
+L'usuari indica que vol publicar un servei. Llavors el Sistema mostra el formulari per a publicar un servei, l'usuari omple tots els camps requerits i el Sistema publica el servei i ho enregistra en la Base de Dades.
 
 #### Cas d'ús UC005 - *Esborrar Servei* ####
 
-L'usuari indica que vol esborrar un servei en concret, el sistema li mostra un avís dient si està segur de voler esborrar-lo, l'usuari confirma i el sistema l'esborra.
+L'usuari indica que vol esborrar un servei en concret, el Sistema li mostra un avís dient si està segur de voler esborrar-lo, l'usuari confirma i el sistema esborra el servei seleccionat de la Base de Dades.
 
 #### Cas d'ús UC006 - *Veure Servei* ####
 
-L'usuari indica que vol veure un servei en concret i el sistema li mostra tota l'informació del servei.
+L'usuari indica que vol veure un servei en concret i el Sistema li mostra tota l'informació del servei seleccionat.
 
 #### Cas d'ús UC007 - *Modificar Servei* ####
 
-L'usuari indica que vol modificar un servei concret, el sistema li mostra el formulari de crear un servei però omplert amb la informació existent, l'ususari modifica els camps que desitji i el sistema enregistra els canvis.
+L'usuari indica que vol modificar un servei en concret, llavors el Sistema li mostra el formulari per a crear un servei però omplert amb la informació existent, l'ususari aleshores modifica els camps que desitji i el Sistema enregistra els canvis a la Base de Dades un cop l'usuari ho ha confirmat.
 
 #### Cas d'ús UC008 - *Veure Ofertes de Serveis* ####
 
-L'usuari indica al sistema que desitja veure els serveis disponibles, el sistema li mostra una llista amb tots els serveis disponibles de més recent a més antic.
+L'usuari indica al Sistema que desitja veure els serveis disponibles en el moment, el Sistema llavors li mostra una llista amb tots els serveis disponibles de més recent a més antic.
 
 #### Cas d'ús UC009 - *Buscar Servei* ####
 
-L'usuari escriu la paraula clau en el buscador, el sistema mostra totes les coincidencies de les que disposa.
+L'usuari escriu la paraula clau en el buscador, i llavors el Sistema mostra totes les coincidències de les que disposa en la Base de Dades.
 
 #### Cas d'ús UC010 - *Contactar Altre Usuari* ####
 
-LL'usuari dins d'un servei, pot indicar que vol contactar amb l'usuari que l'ofereix, el sistema li obre un chat directe a l'altre usuari i a l'altre usuari li arriba una notificació de chat.
+L'usuari dins d'un servei, pot indicar que vol contactar amb l'usuari que l'ofereix. Aleshores el Sistema obre un xat directe amb l'altre usuari on pot expresar el missatge desitjat. Un cop enviat l'usuari que ofereix el servei li arriba una notificació de xat.
 
 #### Cas d'ús UC011 - *Valorar un Servei* ####
 
-L'usuari dins d'un servei indica que ja l'ha rebut i el vol valorar, el sistema obre una pantalla amb 5 estrelles on l'usuari li dona una valoració de 1 a 5 i el sistema enregistra la valoració i recalcula la valoració mitjana del servei.
+L'usuari dins d'un servei indica que ja l'ha rebut i el vol valorar, el Sistema llavors obre una pantalla amb 5 estrelles on l'usuari li dona una valoració de 1 a 5 (1 pitjor, 5 millor valoració) i el Sistema enregistra la valoració i recalcula la valoració mitjana del servei i ho mostra com a característica d'aquest.
 
 #### Cas d'ús UC012 - *Pagar Servei* ####
 
-L'usuari dins d'un servei indica que ja l'ha rebut i el vol pagar, el sistema obre un cuadre de confirmació de pagament, l'usuari confirma i el sistema transfereix el temps d'un usuari a l'altre.
+L'usuari dins d'un servei indica que ja l'ha rebut i el vol pagar, el Sistema aleshores obre un cuadre de confirmació de pagament, l'usuari confirma i el Sistema transfereix el temps indicat al servei fet de l'usuari client a l'usuari que ha realitzat el servei.
 
 #### Cas d'ús UC013 - *Buscar Ubicació a Google Maps* ####
 
-L'usuari indica que vol veure l'ubicació d'un servei, el sistema utilitza la API Google Maps i li mostra un mapa amb la situació exacta.
+L'usuari indica que vol veure l'ubicació d'un servei, el sistema utilitza la API Google Maps i li mostra un mapa amb la situació exacta d'aquest.
 
 #### Cas d'ús UC014 - *Vincular Servei amb Google Calendar* ####
 
-L'usuari indica que vol vincular un servei amb Google Calendar per tal de rebre un recordatori el dia i hora acordats, el sistema li crea l'avís a la API Google Calendar.
+L'usuari indica que vol vincular un servei amb Google Calendar per tal de rebre un recordatori el dia i hora acordats,. El sistema llavors utilitza la API Google Calendar, que aquesta emmagatzema el recordatori indicat.
 
 
 #### Mockups ####
