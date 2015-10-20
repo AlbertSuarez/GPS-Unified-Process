@@ -1,4 +1,4 @@
-﻿# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
+# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
 
 ## **1. ORGANITZACIÓ I EQUIP** ##
 
@@ -89,7 +89,7 @@ tal com marca el protocol UP, què és en el que ens basem.
 ### Inception ###
 
 En aquesta fase, principalment l'objectiu és entendre el problema que se'ns planteja. L'enginyer de requisits i l'analista superior seran els principals protagonistes en aquesta fase.
-A més a més, el cap de projecte aportarà un valor important en la presa de decisions.Les principals tasques a realitzar en aquesta fase seran les següents:
+A més a més, el cap de projecte aportarà un valor important en la presa de decisions. La primera fase durarà 13 dies laborables, és a dir, del 11 de Gener al 27 del mateix mes. Les principals tasques a realitzar en aquesta fase seran les següents:
 
 * Establir l’àmbit del projecte i condicions de frontera.
 
@@ -107,7 +107,7 @@ A més a més, el cap de projecte aportarà un valor important en la presa de de
 ### Elaboration ###
 
 En la segona fase, després d'un estudi del context i entendre el problema, cal entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador sènior i el dissenyador. 
-A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. Les principals feines a fer en la segona fase seran les següents:
+A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. La segona fase del projecte tindrà 20 dies laborables de durada, o sigui, del 28 de Gener al 25 de Febrer. Les principals feines a fer en la segona fase seran les següents:
 
 * Definir, validar i articular l’arquitectura.
 
@@ -125,7 +125,7 @@ A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte
 ### Construction ###
 
 En aquesta fase el principal objectiu és obtenir la solució plantejada durant la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant sènior com junior,
- aporten la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. En aquesta tercera fase, les tasques a realitzar són les següents:
+ aporten la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. La tercera fase durarà 36 dies laborables, és a dir, del 26 de Febrer al 21 d'Abril. En aquesta tercera fase, les tasques a realitzar són les següents:
 
 * Completar el producte software per a la seva transició a producció.
 
@@ -139,11 +139,14 @@ En aquesta fase el principal objectiu és obtenir la solució plantejada durant 
 ### Transition ###
 
 Per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester.
-Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. Les feines a fer són les següents:
+Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. La quarta fase del projecte tindrà 19 dies laborables de durada, o sigui, del 22 d'Abril al 19 de Maig. Les feines a fer són les següents:
 
 * Permetre al client que sigui autosuficient en l’ús del producte
+
 * Obtenir l’aprovació dels interessats
+
 * Arribar a la configuració final de forma ràpida i efectiva
+
 
 Llavors, finalment en aquesta fase, es decideix si alliberar el producte o no al mercat.
 
@@ -153,7 +156,19 @@ A continuació es mostra una taula representativa dels percentatges de treball p
 
 ![Percentatge de rols aproximat]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/41b8dc3682c9709577d338db2b21b4a99fdae350/Imatges/PercentatgeDeRolsAproximat.PNG?token=036aee3fc0389cac9bf89f00beeb8e44f8b300e5)
 
-Quant als casos d'ús, la distribució de fases plantejada pel protocol UP, estableix:
+Per tant, donat els percentatge de rols aproximat i les hores dedicades totals a les quatre fases del sistema, ja podem distribuir l'execució del projecte donada pel *top-down*.
+
+Partim de la data inicial del 11 de Gener. Llavors, donades les hores requerides per a cada fase i contant una jornada laboral de 40 hores setmanals sorgeix la següent taula:
+
+![TopDown](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/5e633ad7dd8c221cf49e57af9287f09ff58f6b87/Imatges/TopDown.PNG?token=c55fad9830876be3d043cef7f81c151225858c10)
+
+I donats els objectius principals de cada fase mencionats anteriorment i les dates inicials i finals de cada una de les quatre parts del projecte, sorgeix la següent classificació en iteracions del projecte:
+
+GRAFICO TOH CHULO
+
+
+
+I finalment en quant als casos d'ús, la distribució de fases plantejada pel protocol UP, estableix:
 
  - La identificació s'ha de dur a terme principalment durant les fases d'inception i Elaboration.
  - L'esbossat s'ha de plantejar a la fase d'inception i s'ha d'acabar completament durant la fase Construction.
