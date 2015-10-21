@@ -164,7 +164,7 @@ Partim de la data inicial del 11 de Gener. Llavors, donades les hores requerides
 
 I donats els objectius principals de cada fase mencionats anteriorment i les dates inicials i finals de cada una de les quatre parts del projecte, sorgeix la següent classificació en iteracions del projecte:
 
-GRAFICO TOH CHULO
+![Classificacio per iteracions](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/9a6c4c51ae8e385ffefb86ba40ca3a8adf1639bd/Imatges/ClassificacioIteracions.PNG?token=a676af6f4f608c38b45585bc6f80d2a026eecb68)
 
 
 
