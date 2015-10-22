@@ -107,7 +107,7 @@ A més a més, el cap de projecte aportarà un valor important en la presa de de
 ### Elaboration ###
 
 En la segona fase, després d'un estudi del context i entendre el problema, cal entendre la solució plantejada. Per això, prenen protagonisme l'analista i programador sènior i el dissenyador. 
-A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. La segona fase del projecte tindrà 20 dies laborables de durada, o sigui, del 28 de Gener al 25 de Febrer. Les principals feines a fer en la segona fase seran les següents:
+A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte. La segona fase del projecte tindrà 19 dies laborables de durada, o sigui, del 28 de Gener al 24 de Febrer. Les principals feines a fer en la segona fase seran les següents:
 
 * Definir, validar i articular l’arquitectura.
 
@@ -125,7 +125,7 @@ A part, també destaca el cap de projecte que ha d'acabar de refinar el projecte
 ### Construction ###
 
 En aquesta fase el principal objectiu és obtenir la solució plantejada durant la fase anterior. Com és lògic, en aquesta part del projecte els programadors, tant sènior com junior,
- aporten la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. La tercera fase durarà 36 dies laborables, és a dir, del 26 de Febrer al 21 d'Abril. En aquesta tercera fase, les tasques a realitzar són les següents:
+ aporten la major part del treball de la fase. A més a més, el tester realitza les primeres proves amb les primeres versions del sistema. La tercera fase durarà 36 dies laborables, és a dir, del 25 de Febrer al 19 d'Abril. En aquesta tercera fase, les tasques a realitzar són les següents:
 
 * Completar el producte software per a la seva transició a producció.
 
@@ -139,7 +139,7 @@ En aquesta fase el principal objectiu és obtenir la solució plantejada durant 
 ### Transition ###
 
 Per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester.
-Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. La quarta fase del projecte tindrà 19 dies laborables de durada, o sigui, del 22 d'Abril al 19 de Maig. Les feines a fer són les següents:
+Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. La quarta fase del projecte tindrà 19 dies laborables de durada, o sigui, del 20 d'Abril al 17 de Maig. Les feines a fer són les següents:
 
 * Permetre al client que sigui autosuficient en l’ús del producte
 
@@ -151,20 +151,26 @@ Eventualment, els programadors i analistes també tenen un paper important per s
 Llavors, finalment en aquesta fase, es decideix si alliberar el producte o no al mercat.
 
 
+És a dir, tenint en compte que començem el projecte el 11 de Gener de 2016 i tots els dies festius en la ciutat de Barcelona, el calendari del projecte seria el següent:
 
-A continuació es mostra una taula representativa dels percentatges de treball per rol subdividit en les 4 fases marcades pel protocol UP.
+![Calendari](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/Calendari.jpg?token=4dd0bb8376376de37306f7fdb25186d1c1b4e100)
+
+
+A continuació es mostra una taula representativa dels percentatges de treball per rol subdividit en les 4 fases marcades pel protocol UP. I a més a més, les hores dedicades per membre del equip en cada fase (tenint en compte en que hi ha casos on hi ha més d'un membre en cada categoria, com per exemple en el cas dels dissenyadors).
 
 ![Percentatge de rols aproximat]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/41b8dc3682c9709577d338db2b21b4a99fdae350/Imatges/PercentatgeDeRolsAproximat.PNG?token=036aee3fc0389cac9bf89f00beeb8e44f8b300e5)
+
+![Hores per treballador i fase](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/Hores%20per%20treballador%20i%20fase.PNG?token=08c7e51b77008dd838f617cb53bdedd582e9ffe3)
 
 Per tant, donat els percentatge de rols aproximat i les hores dedicades totals a les quatre fases del sistema, ja podem distribuir l'execució del projecte donada pel *top-down*.
 
 Partim de la data inicial del 11 de Gener. Llavors, donades les hores requerides per a cada fase i contant una jornada laboral de 40 hores setmanals sorgeix la següent taula:
 
-![TopDown](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/5e633ad7dd8c221cf49e57af9287f09ff58f6b87/Imatges/TopDown.PNG?token=c55fad9830876be3d043cef7f81c151225858c10)
+![TopDown](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/TopDown.PNG?token=0a9d9ccbe0824fcb098e725fd09fab72a7e9ab52)
 
 I donats els objectius principals de cada fase mencionats anteriorment i les dates inicials i finals de cada una de les quatre parts del projecte, sorgeix la següent classificació en iteracions del projecte:
 
-![Classificacio per iteracions](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/9a6c4c51ae8e385ffefb86ba40ca3a8adf1639bd/Imatges/ClassificacioIteracions.PNG?token=a676af6f4f608c38b45585bc6f80d2a026eecb68)
+![Classificacio per iteracions](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/ClassificacioIteracions.PNG?token=98a3193a1bc360c71e64ed7e224ccdd58ca5e1d3)
 
 
 
