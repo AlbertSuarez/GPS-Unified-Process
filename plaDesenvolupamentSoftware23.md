@@ -1,4 +1,4 @@
-# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
+﻿# **SISTEMA ACME - PLA DE DESENVOLUPAMENT DE SOFTWARE** #
 
 ## **1. ORGANITZACIÓ I EQUIP** ##
 
@@ -174,14 +174,10 @@ I donats els objectius principals de cada fase mencionats anteriorment i les dat
 
 
 
-I finalment en quant als casos d'ús, la distribució de fases plantejada pel protocol UP, estableix:
+I finalment en quant als casos d'ús, a continuació es mostra l’estat de tots els casos d’ús del sistema en funció de la fase en que es troba el projecte.
 
- - La identificació s'ha de dur a terme principalment durant les fases d'inception i Elaboration.
- - L'esbossat s'ha de plantejar a la fase d'inception i s'ha d'acabar completament durant la fase Construction.
- - El refinament s'elabora principalment a les fases Elaboration i Construction
- - L'analisi es realitza durant les fases Elaboration i construction
- - A la fase de Transition el cas d'ús ha d'estar complet.
- 
- A continuació es mostra una taula que reflecteix l'anàlisi de les fases d'un cas d'ús subdividit segons el seu estat per fase de projecte:
- 
- ![Anàlisi en termes de cas d'ús](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/736414a4c9a980ac7a1766de55a26bd50b0b7704/Imatges/AnalisisEnTermeDeCasosDUs.PNG?token=7c8802819606af03765b3c34649f8f7cb7b37c19)
+![Estat Casos dUs](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/3a78e7d6c1fffff81484ca55605513746258908a/Imatges/EstatsCasosDus.png?token=216f0d4b826770fdf77aff93773a91509e6f7e0c)
+
+![Percentatge de estat casos dUs](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/3a78e7d6c1fffff81484ca55605513746258908a/Imatges/AnalisisEnTermeDeCasosDUs.PNG?token=fffde72e8c45d90ce26a3e18dd8df2af98116039)
+
+

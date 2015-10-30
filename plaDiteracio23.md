@@ -1,26 +1,51 @@
-# **SISTEMA ACME - PLA D'ITERACIÓ *la que sigui*** #
+ï»¿# **SISTEMA ACME - PLA D'ITERACIÃ“ *Inception*** #
 
-> El propòsit del document d'iteració és descriure en detall la planificació de la següent iteració. Tindrem, doncs, un document per cada iteració. El document es fa tot just abans d'iniciar la iteració
+## **1. PRESENTACIÃ“ DE LA ITERACIÃ“** ##
 
-## **1. PRESENTACIÓ DE LA ITERACIÓ** ##
+En aquesta iteraciÃ³, la primera i Ãºnica de la fase dâ€™Inception, principalment l'objectiu Ã©s entendre el problema que se'ns planteja. L'enginyer de requisits i l'analista superior seran els principals protagonistes en aquesta fase.
+A mÃ©s a mÃ©s, el cap de projecte aportarÃ  un valor important en la presa de decisions. A continuaciÃ³, es disposa de la taula on es representa el repartiment dâ€™hores de la primera iteraciÃ³.
 
-> Resumir la informació de la iteració que més o menys ja està en el pla de desenvolupament del projecte: dates, esforç per rol, etc.
+La primera iteraciÃ³ durarÃ  13 dies laborables, Ã©s a dir, del 11 de Gener al 27 del mateix mes. A mÃ©s a mÃ©s, a continuaciÃ³ es mostra una taula amb el repartiment de dies per fase.
 
-## **2. COBERTURA DE CASOS D'ÚS** ##
+Les principals tasques a realitzar en aquesta fase seran les segÃ¼ents:
 
-> Poseu l'estat en què penseu es trobarà cada cas d'ús en acabar la iteració. Ha de ser coherent amb l'esforç assignat a la iteració
+* Establir lâ€™Ã mbit del projecte i condicions de frontera.
+
+* Determinar els casos dâ€™Ãºs i els seus escenaris principals.
+
+* Visualitzar una arquitectura candidata basant-se en alguns escenaris primaris.
+
+* Estimar el cost i planificaciÃ³ temporal.
+
+* Identificar possibles riscos.
+
+* Preparar lâ€™entorn de treball del projecte.
+
+![hores per treballador i fase](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/3a78e7d6c1fffff81484ca55605513746258908a/Imatges/Hores%20per%20treballador%20i%20fase.PNG?token=81324f8d3d660c7a5ce9d7a008bc5bb7cdfb6fa3)
+
+![percentatge de rols](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/3a78e7d6c1fffff81484ca55605513746258908a/Imatges/PercentatgeDeRolsAproximat.PNG?token=a5dbdbe17e148f693951e8a11ef772c0fd5a83f5)
+
+![topdown](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/3a78e7d6c1fffff81484ca55605513746258908a/Imatges/TopDown.PNG?token=e2a3606ee2613c19c70f51f01b612c80341ac741)
+
+
+## **2. COBERTURA DE CASOS D'ÃšS** ##
+
+
+
 
 ## **3. ACTIVITATS** ##
 
-Totes les activitats tenen dependencies amb totes les anteriors a ella, menys preparar l'entorn de treball del projecte i identificar riscos que es poden fer en paral·lel.
+Totes les activitats tenen dependencies amb totes les anteriors a ella, menys preparar l'entorn de treball del projecte i identificar riscos que es poden fer en paralÂ·lel.
 
-1. Establir l’àmbit del projecte i condicions de frontera. (1 dia)
-2. Preparar l’entorn de treball del projecte. (1 dia)
+1. Establir lâ€™Ã mbit del projecte i condicions de frontera. (1 dia)
+2. Preparar lâ€™entorn de treball del projecte. (1 dia)
 3. Identificar possibles riscos. (2 dies)
-4. Determinar els casos d’ús i els seus escenaris principals. (3 dies)
+4. Determinar els casos dâ€™Ãºs i els seus escenaris principals. (3 dies)
 5. Visualitzar una arquitectura candidata basant-se en alguns escenaris primaris. (3 dies)
-6. Estimar el cost i planificació temporal. (4 dies)
- 
+6. Estimar el cost i planificaciÃ³ temporal. (4 dies)
+
+
+
 ## **4. DIAGRAMA DE GANTT** ##
 
-> Feu el diagrama de Gantt amb tota la informació necessària (dates, personal, fites, precedències, ...). Opcionalment, podeu fer el diagrama de PERT per discernir el temps mínim i màxim d'execució
+
