@@ -10,9 +10,9 @@ Els usuaris podran oferir serveis, posar-se en contacte amb altres usuaris per r
 
 ## **2. CONTEXT DE NEGOCI** ##
 
-El nostre sistema es desenvoluparà mitjançant inversions d'entitats privades. Un cop desenvolupat, els costos d'inversió i de manteniment es recuperaran mitjançant la incorporació de publicitat i la venta de dades per estudis estadístics. Aproximadament es recuperarà la inversió inicial en menys de 3 anys.
+El nostre sistema es desenvoluparà mitjançant inversions d'entitats privades. Un cop desenvolupat, els costos d'inversió i de manteniment es recuperaran mitjançant la incorporació de publicitat i la venda de dades per estudis estadístics. Aproximadament es recuperarà la inversió inicial en menys de 3 anys.
 
-S'espera que el temps de vida del sistema sigui de més de 10 anys, ja que la tendència de banc del temps s'està incrementant de forma exponencial en els últims anys degut als factors socials.
+S'espera que el temps de vida del sistema sigui de més de 10 anys, ja que la tendència de banc del temps s'està incrementant de forma exponencial en els últims anys a causa dels factors socials.
 
 Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garantir beneficis a partir dels 3 anys aproximadament. 
 
@@ -30,8 +30,8 @@ Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garan
 
 **Inversors**
 
-1. *Recuperar la inversió en un període màxim de 3 anys*. Els inversors tenen com a objectiu poder recuperar el capital invertit en el projecte el més aviat possible..
-2. *Obtenir beneficis anuals superiors al 20% de la inversió feta a partir dels 3 anys*. Els inversors pretenen obtenir beneficis a partir del sistema en un mínim del 20% de la inversió inicial en un futur proper.
+1. *Recuperar la inversió en un període màxim de 3 anys*. Els inversors tenen com a objectiu poder recuperar el capital invertit en el projecte al més aviat possible.
+2. *Obtenir beneficis anuals superiors al 20% de la inversió feta a partir dels 3 anys*. Els inversors pretenen obtenir beneficis a partir del sistema en un mínim del 20% de la inversió inicial en un futur pròxim.
 
 **Proveïdor de serveis al núvol**
 
@@ -41,10 +41,10 @@ Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garan
 
 ## **4. RESTRICCIONS** ##
 
-1. *Dirigida als clients*. L'aplicació només funcionarà per aquells clients el quals estiguin registrats en el sistema i formin part de la comunitat.
-2. *Disponibilitat*. L'aplicació no garanteix el 100% de disponibilitat degut a possibles activitats de manteniment.
+1. *Dirigida als clients*. L'aplicació només funcionarà per aquells clients els quals estiguin registrats en el sistema i formin part de la comunitat.
+2. *Disponibilitat*. L'aplicació no garanteix el 100% de disponibilitat a causa de possibles activitats de manteniment.
 3. *Intercanvi*. La funcionalitat principal de l'aplicació, l'intercanvi de temps, només funcionarà correctament si els dos usuaris implicats segueixen la filosofia del sistema.
-4. *Connectivitat*. El sistema només funcionarà quan l'usuari que la utilitzi disposi d'accés a Internet a través d'una connectivitat tant sigui Wi-Fi com 3G/4G.
+4. *Connectivitat*. El sistema només funcionarà quan l'usuari que la utilitzi disposi d'accés a Internet a través d'una connectivitat, tant sigui Wi-Fi com 3G/4G.
 
 
 
@@ -53,7 +53,7 @@ Així doncs, podem confiar en la viabilitat econòmica del sistema i podem garan
 L'aplicació es desenvoluparà per a un ús social, partim de la idea de millorar els tractes humans a la ciutat i ajudar a la gent, per tant, donem prioritat al bon funcionament i adaptació enfront un gran marge de guanys.
 El projecte es finançarà bàsicament amb publicitat i, amb un pes menor, amb els comptes prèmium en les quals no existirà publicitat. A més, es vendran algunes dades per a estudis estadístics.
 Planegem recuperar la inversió inicial en un període màxim de 3 anys del llançament de l’aplicació al mercat. A partir del tercer any s’espera haver de pagar només els costos de manteniment i per tant, tota la resta, serien beneficis nets.
-Esperem que la comunitat d’usuaris augmenti exponencialment gracies al boca a boca i al bon funcionament del sistema.
+Esperem que la comunitat d’usuaris augmenti exponencialment gràcies al boca a boca i al bon funcionament del sistema.
 
 
 ## **6. RECURSOS** ##

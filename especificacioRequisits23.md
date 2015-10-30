@@ -68,7 +68,7 @@ L'usuari quan contracta un servei o un altre usuari li contracta un servei seu, 
 
 #### Cas d'ús UC001 - *Esborrar Usuari* ####
 
-L'administrador indica al Sistema que vol esborrar un usuari determinat. Llavors el Sistema l'esborra de la seva Base de Dades sense problemes ja que l'administrador té els permíssos necessaris per l'acció.
+L'administrador indica al Sistema que vol esborrar un usuari determinat. Llavors el Sistema l'esborra de la seva Base de Dades sense problemes, ja que l'administrador té els permisos necessaris per a l'acció.
 
 #### Cas d'ús UC002 - *Registrar-se* ####
 
@@ -88,11 +88,11 @@ L'usuari indica que vol esborrar un servei en concret, el Sistema li mostra un a
 
 #### Cas d'ús UC006 - *Veure Servei* ####
 
-L'usuari indica que vol veure un servei en concret i el Sistema li mostra tota l'informació del servei seleccionat.
+L'usuari indica que vol veure un servei en concret i el Sistema li mostra tota la informació del servei seleccionat.
 
 #### Cas d'ús UC007 - *Modificar Servei* ####
 
-L'usuari indica que vol modificar un servei en concret, llavors el Sistema li mostra el formulari per a crear un servei però omplert amb la informació existent, l'ususari aleshores modifica els camps que desitji i el Sistema enregistra els canvis a la Base de Dades un cop l'usuari ho ha confirmat.
+L'usuari indica que vol modificar un servei en concret, llavors el Sistema li mostra el formulari per a crear un servei però omplert amb la informació existent, l'usuari aleshores modifica els camps que desitgi i el Sistema enregistra els canvis a la Base de Dades un cop l'usuari ho ha confirmat.
 
 #### Cas d'ús UC008 - *Veure Ofertes de Serveis* ####
 
@@ -100,27 +100,27 @@ L'usuari indica al Sistema que desitja veure els serveis disponibles en el momen
 
 #### Cas d'ús UC009 - *Buscar Servei* ####
 
-L'usuari escriu la paraula clau en el buscador, i llavors el Sistema mostra totes les coincidències de les que disposa en la Base de Dades.
+L'usuari escriu la paraula clau en el buscador, i llavors el Sistema mostra totes les coincidències de les quals disposa en la Base de Dades.
 
 #### Cas d'ús UC010 - *Contactar Altre Usuari* ####
 
-L'usuari dins d'un servei, pot indicar que vol contactar amb l'usuari que l'ofereix. Aleshores el Sistema obre un xat directe amb l'altre usuari on pot expresar el missatge desitjat. Un cop enviat l'usuari que ofereix el servei li arriba una notificació de xat.
+L'usuari dins d'un servei, pot indicar que vol contactar amb l'usuari que l'ofereix. Aleshores el Sistema obre un xat directe amb l'altre usuari on pot expressar el missatge desitjat. Un cop enviat l'usuari que ofereix el servei li arriba una notificació de xat.
 
 #### Cas d'ús UC011 - *Valorar un Servei* ####
 
-L'usuari dins d'un servei indica que ja l'ha rebut i el vol valorar, el Sistema llavors obre una pantalla amb 5 estrelles on l'usuari li dona una valoració de 1 a 5 (1 pitjor, 5 millor valoració) i el Sistema enregistra la valoració i recalcula la valoració mitjana del servei i ho mostra com a característica d'aquest.
+L'usuari dins d'un servei indica que ja l'ha rebut i el vol valorar, el Sistema llavors obre una pantalla amb 5 estrelles on l'usuari li dóna una valoració d'1 a 5 (1 pitjor, 5 millor valoració) i el Sistema enregistra la valoració i recalcula la valoració mitjana del servei i ho mostra com a característica d'aquest.
 
 #### Cas d'ús UC012 - *Pagar Servei* ####
 
-L'usuari dins d'un servei indica que ja l'ha rebut i el vol pagar, el Sistema aleshores obre un cuadre de confirmació de pagament, l'usuari confirma i el Sistema transfereix el temps indicat al servei fet de l'usuari client a l'usuari que ha realitzat el servei.
+L'usuari dins d'un servei indica que ja l'ha rebut i el vol pagar, el Sistema aleshores obre un quadre de confirmació de pagament, l'usuari confirma i el Sistema transfereix el temps indicat al servei fet de l'usuari client a l'usuari que ha realitzat el servei.
 
 #### Cas d'ús UC013 - *Buscar Ubicació a Google Maps* ####
 
-L'usuari indica que vol veure l'ubicació d'un servei, el sistema utilitza la API Google Maps i li mostra un mapa amb la situació exacta d'aquest.
+L'usuari indica que vol veure la ubicació d'un servei, el sistema utilitza la API Google Maps i li mostra un mapa amb la situació exacta d'aquest.
 
 #### Cas d'ús UC014 - *Vincular Servei amb Google Calendar* ####
 
-L'usuari indica que vol vincular un servei amb Google Calendar per tal de rebre un recordatori el dia i hora acordats,. El sistema llavors utilitza la API Google Calendar, que aquesta emmagatzema el recordatori indicat.
+L'usuari indica que vol vincular un servei amb Google Calendar per tal de rebre un recordatori el dia i hora acordats. El sistema llavors utilitza la API Google Calendar, que aquesta emmagatzema el recordatori indicat.
 
 
 #### Mockups ####
@@ -173,7 +173,7 @@ Per tal d’entendre millor el sistema, a continuació es disposa d’un seguit 
 
 *Descripció*: La resposta del sistema ha de ser de menys d'un segon com a mínim en el 95% de les operacions.
 
-*Justificació del requisit*: Un temps de resposta ràpid permet que l’usuari no perdi el flux o atenció del que esta fent amb el sistema.
+*Justificació del requisit*: Un temps de resposta ràpid permet que l’usuari no perdi el flux o atenció del que està fent amb el sistema.
 
 *Condició de satisfacció*: El requisit se satisfarà si donat un estudi sobre el rendiment de l'aplicació, aquest confirma que el temps d'espera en cada acció és menor al segon en el 95% dels casos.
 
@@ -184,7 +184,7 @@ Per tal d’entendre millor el sistema, a continuació es disposa d’un seguit 
 
 *Descripció*: Totes les dates que s’incloguin en l’aplicació tindran el format següent: DD/MM/AAAA
 
-*Justificació del requisit*: és convenient especificar el format de la data ja que no a tot arreu té el mateix format i podria provocar malentesos entre els usuaris.
+*Justificació del requisit*: és convenient especificar el format de la data, ja que no a tot arreu té el mateix format i podria provocar malentesos entre els usuaris.
 
 *Condició de satisfacció*: El requisit se satisfarà si el format de la data i l'hora segueix l’estàndard ISO-8601 extens d’estil Europeu (EN 28601).
 
@@ -228,6 +228,6 @@ Per tal d’entendre millor el sistema, a continuació es disposa d’un seguit 
 
 *Descripció*: S’aconseguiran tots els drets sobre els serveis externs que s’utilitzin a l’aplicació i a la vegada es complirà les lleis sobre el tractament de dades personals.
 
-*Justificació del requisit*: Es pactaran acords amb totes les empreses de les que s’utilitzen els seus serveix, arribant a acords sigui amb la Universitat per poder aprofitar la seva plataforma o amb empreses externes. I també mostrar transparència a l'hora de no compartir dades personals per fins no vinculants al sistema.
+*Justificació del requisit*: Es pactaran acords amb totes les empreses de les quals s’utilitzen els seus serveix, arribant a acords sigui amb la Universitat per poder aprofitar la seva plataforma o amb empreses externes. I també mostrar transparència a l'hora de no compartir dades personals per fins no vinculants al sistema.
 
 *Condició de satisfacció*: El requisit se satisfarà si no es rep cap denuncia per part de cap servei extern, ni de cap usuari per ús indegut de les dades personals.

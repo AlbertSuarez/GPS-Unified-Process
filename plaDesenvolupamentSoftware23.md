@@ -23,7 +23,7 @@ El nostre equip estarà organitzat de la següent manera:
 
 ## **2. ESTIMACIÓ D'ESFORÇ** ##
 
-L’estimació de l’esforç del nostre sistema l’hem calculat seguint el model UCPA amb el respectius paràmetres a calcular:
+L’estimació de l’esforç del nostre sistema l’hem calculat seguint el model UCPA amb els respectius paràmetres a calcular:
 
 * *Actors*[1]: s’ha de tenir en compte qualsevol entitat externa al sistema que interacciona amb ell. Cadascun d’ells se li atorga un pes entre 1 i 3 depenent de si és un altre sistema que ofereix API o requereix un altre tipus de comunicació o bé és una interacció humana (GUI). A partir d’això obtenim el valor *UAW*.
 
@@ -45,7 +45,7 @@ A continuació es disposa de les taules on es fa el càlcul dels 4 paràmetres e
 
 
 
-Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el factor PF, contingut entre 15 i 30, donat dacord amb alguns factors com:
+Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el factor PF, contingut entre 15 i 30, donat d'acord amb alguns factors com:
 
 * *Entregar la feina en el termini indicat*.
 
@@ -53,7 +53,7 @@ Un cop obtingut tots els valors mencionats anteriorment, hem de decidir el facto
 
 * *Experiència en treball en equip*.
 
-Llavors, hem decidit optar per un factor mig i prendre PF com 22,5. Aleshores, els càlculs serien els següents.
+Llavors, hem decidit optar per un factor mitjà i prendre PF com 22,5. Aleshores, els càlculs serien els següents.
 
 **UCP = (UUCW + UAW) x TCF x ECF = 111.9976**
 
@@ -67,7 +67,7 @@ L'estimació del cost del nostre sistema ve donat de molts factors com el nombre
 
 Per començar, cal tenir en compte el *Schedule* de les 4 fases del nostre sistema (Inception, Elaboration, Construction i Transition). Llavors dividim les hores de treball obtingudes en l'apartat anterior en els percentatges marcats. Aleshores, s'ha de decidir el salari per hora de cada membre de l'equip i la seva respectiva responsabilitat sobre el projecte. Després donat el *Schedule* mencionat i la distribució en percentatges dels rols del nostre sistema, obtenim les hores que hi dedicarà cada membre de l'equip. I llavors, simplement, multipliquem pel salari de cadascun d'ells.
 
-![Distribució típica de les fase](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/DistribucioTipicaDeLesFases.PNG?token=b8aeed46238d1fcf0592e35a03ddfdb605efe843)
+![Distribució típica de les fases](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/DistribucioTipicaDeLesFases.PNG?token=b8aeed46238d1fcf0592e35a03ddfdb605efe843)
 
 ![Estimació del Cost 1](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/af00a6936c31c1c8cd6a89f61aeb3848a73b8ac2/Imatges/EstimacioCost1.png?token=f61ad8a8fa5abdb0a13a06af64d7b302018e20a7)
 
@@ -89,7 +89,7 @@ tal com marca el protocol UP, què és en el que ens basem.
 ### Inception ###
 
 En aquesta fase, principalment l'objectiu és entendre el problema que se'ns planteja. L'enginyer de requisits i l'analista superior seran els principals protagonistes en aquesta fase.
-A més a més, el cap de projecte aportarà un valor important en la presa de decisions. La primera fase durarà 13 dies laborables, és a dir, del 11 de Gener al 27 del mateix mes. Les principals tasques a realitzar en aquesta fase seran les següents:
+A més a més, el cap de projecte aportarà un valor important en la presa de decisions. La primera fase durarà 13 dies laborables, és a dir, de l'11 de Gener al 27 del mateix mes. Les principals tasques a realitzar en aquesta fase seran les següents:
 
 * Establir l’àmbit del projecte i condicions de frontera.
 
@@ -139,7 +139,7 @@ En aquesta fase el principal objectiu és obtenir la solució plantejada durant 
 ### Transition ###
 
 Per últim, en aquesta quarta fase l'objectiu primordial i principal és lliurar la solució. Per tant, els membres de l'equip principals són el cap de projecte i el tester.
-Eventualment, els programadors i analistes també tenen un paper important per sí sorgeix algun canvi d'última hora. La quarta fase del projecte tindrà 19 dies laborables de durada, o sigui, del 20 d'Abril al 17 de Maig. Les feines a fer són les següents:
+Eventualment, els programadors i analistes també tenen un paper important per si sorgeix algun canvi d'última hora. La quarta fase del projecte tindrà 19 dies laborables de durada, o sigui, del 20 d'Abril al 17 de Maig. Les feines a fer són les següents:
 
 * Permetre al client que sigui autosuficient en l’ús del producte
 
@@ -151,20 +151,20 @@ Eventualment, els programadors i analistes també tenen un paper important per s
 Llavors, finalment en aquesta fase, es decideix si alliberar el producte o no al mercat.
 
 
-És a dir, tenint en compte que començem el projecte el 11 de Gener de 2016 i tots els dies festius en la ciutat de Barcelona, el calendari del projecte seria el següent:
+És a dir, tenint en compte que comencem el projecte l'11 de gener de 2016 i tots els dies festius en la ciutat de Barcelona, el calendari del projecte seria el següent:
 
 ![Calendari](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/Calendari.jpg?token=4dd0bb8376376de37306f7fdb25186d1c1b4e100)
 
 
-A continuació es mostra una taula representativa dels percentatges de treball per rol subdividit en les 4 fases marcades pel protocol UP. I a més a més, les hores dedicades per membre del equip en cada fase (tenint en compte en que hi ha casos on hi ha més d'un membre en cada categoria, com per exemple en el cas dels dissenyadors).
+A continuació es mostra una taula representativa dels percentatges de treball per rol subdividit en les 4 fases marcades pel protocol UP. I a més a més, les hores dedicades per membre de l'equip en cada fase (tenint en compte en què hi ha casos on hi ha més d'un membre en cada categoria, com per exemple en el cas dels dissenyadors).
 
 ![Percentatge de rols aproximat]( https://bytebucket.org/AlbertSuarez/gps-up-23/raw/41b8dc3682c9709577d338db2b21b4a99fdae350/Imatges/PercentatgeDeRolsAproximat.PNG?token=036aee3fc0389cac9bf89f00beeb8e44f8b300e5)
 
 ![Hores per treballador i fase](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/Hores%20per%20treballador%20i%20fase.PNG?token=08c7e51b77008dd838f617cb53bdedd582e9ffe3)
 
-Per tant, donat els percentatge de rols aproximat i les hores dedicades totals a les quatre fases del sistema, ja podem distribuir l'execució del projecte donada pel *top-down*.
+Per tant, donat els percentatges de rols aproximat i les hores dedicades totals a les quatre fases del sistema, ja podem distribuir l'execució del projecte donada pel *top-down*.
 
-Partim de la data inicial del 11 de Gener. Llavors, donades les hores requerides per a cada fase i contant una jornada laboral de 40 hores setmanals sorgeix la següent taula:
+Partim de la data inicial de l'11 de Gener. Llavors, donades les hores requerides per a cada fase i contant una jornada laboral de 40 hores setmanals sorgeix la següent taula:
 
 ![TopDown](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/080cada0dfc04bc763510bdf6e16d3ee44cfdfd1/Imatges/TopDown.PNG?token=0a9d9ccbe0824fcb098e725fd09fab72a7e9ab52)
 
@@ -174,7 +174,7 @@ I donats els objectius principals de cada fase mencionats anteriorment i les dat
 
 
 
-I finalment en quant als casos d'ús, a continuació es mostra l’estat de tots els casos d’ús del sistema en funció de la fase en que es troba el projecte.
+I finalment quant als casos d'ús, a continuació es mostra l’estat de tots els casos d’ús del sistema en funció de la fase en què es troba el projecte.
 
 ![Estat Casos dUs](https://bytebucket.org/AlbertSuarez/gps-up-23/raw/3a78e7d6c1fffff81484ca55605513746258908a/Imatges/EstatsCasosDus.png?token=216f0d4b826770fdf77aff93773a91509e6f7e0c)
 

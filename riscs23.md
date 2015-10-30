@@ -20,7 +20,7 @@ Comunicats emesos per la companyia dissenyadora de la tecnologia
  
 ### Estratègies de mitigació ###
 
-Comprovar si la companyia dissenyadora de la tecnologia està pensant en una de nova abans de fer el disseny del sistema
+Comprovar si la companyia dissenyadora de la tecnologia està pensant en una de nova abans de fer el disseny del sistema.
  
 ### Plans de mitigació ###
 
@@ -36,7 +36,7 @@ La tecnologia a emprar és desconeguda per l'equip
 
 ### Probabilitat ###
 
-probable 
+Probable 
  
 ### Impacte ###
 
@@ -58,7 +58,7 @@ Intentar que entre tots els membres de l'equip existeixi un mínim coneixement d
 
 
 
-## **RISC 003. Preu per sobre del acordat** ##
+## **RISC 003. Preu per sobre de l'acordat** ##
 
 ### Descripció ###
 
@@ -101,7 +101,7 @@ Poc probable
  
 ### Impacte ###
 
-Principalment, afecta en el temps de producció del projecte ja que hi ha una persona menys per desenvolupar-lo. A més a més, si aquest membre que es dóna de baixa ocupava un càrrec important pot suposar un fort impacte sobre el projecte.
+Principalment, afecta en el temps de producció del projecte, ja que hi ha una persona menys per desenvolupar-lo. A més a més, si aquest membre que es dóna de baixa ocupava un càrrec important, pot suposar un fort impacte sobre el projecte.
 
 ### Indicadors ###
 
@@ -114,7 +114,7 @@ Assegurar-se de la permanència de tots els membres de l’equip fins al final d
 ### Plans de mitigació ###
 
 - Buscar un substitut el més ràpid possible per ocupar la vacant i no notar l’impacte en el temps de producció. 
-- Repartir la feina del membre que ha abandonat entre la resta (tot i que impliqui no acabar el projecte en la data acordada).
+- Repartir la feina del membre que ha abandonat entre la resta (encara que impliqui no acabar el projecte en la data acordada).
 
 
 
@@ -162,7 +162,7 @@ En una gran majoria dels casos suposaria el fracàs del projecte.
 
 ### Indicadors ###
 
-Els stakeholders ho transmeten al equip que desenvolupa el projecte.
+Els stakeholders ho transmeten a l'equip que desenvolupa el projecte.
  
 ### Estratègies de mitigació ###
 
@@ -170,7 +170,7 @@ Estudiar bé els requisits mínims que satisfan a les parts interessades abans d
 
 ### Plans de mitigació ###
 
-- Estudiar com afegir aquests requisits no complerts al sistema.
+- Estudiar com afegir aquests requisits no complets al sistema.
 - Pactar amb els Stakeholders afectats per intentar que acceptin el sistema.
 
 
@@ -199,11 +199,11 @@ Realitzar una bona tasca d’enginyeria de requisits que garanteixi que les part
 
 ### Plans de mitigació ###
 
-- Comunicar qualsevol acció a fer amb les parts interessades per tal d’adonar-nos del canvi el més aviat possible.
+- Comunicar qualsevol acció a fer amb les parts interessades per tal d’adonar-nos del canvi al més aviat possible.
 
 
 
-## **RISC 008.L’inversor del projecte es retira durant el procés** ##
+## **RISC 008. L’inversor del projecte es retira durant el procés** ##
 
 ### Descripció ###
 
@@ -227,6 +227,6 @@ Garantir que l’inversor està satisfet en tot moment amb el projecte.
 
 ### Plans de mitigació ###
 
-- Raonar amb l’inversor perquè continui.
+- Raonar amb l’inversor perquè continuï.
 - Buscar un nou inversor.
 
